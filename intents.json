@@ -1,0 +1,1432 @@
+{
+  "intents": [
+    {
+      "tag": "Sapaan",
+      "patterns": [
+        "Hi",
+        "Hy",
+        "Hai",
+        "Halo",
+        "Helo",
+        "hallo",
+        "Halo edubot",
+        "Oy", 
+        "Oi",
+        "Hoy",
+        "Hoi",
+        "Tes",
+        "Test",
+        "selamat malam",
+        "selamat pagi",
+        "siang",
+        "sore"
+      ],
+      "responses": [
+        "Hai, apa yang bisa saya bantu? ChatBot ini didesain untuk menjawab beberapa pertanyaan mengenai materi pendidikan karakter dalam bahasa Indonesia"
+      ]
+    },
+    {
+      "tag": "Terimakasih",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "Terimakasih",
+        "Terimakasih banyak",
+        "Makasih",
+        "Thankyou"
+      ],
+      "responses": [
+        "Senang bisa membantumu!"
+      ]
+    },
+    {
+      "tag": "Apa",
+      "patterns": [
+        "Apa yang bisa kamu lakukan",
+        "Kamu bisa apa",
+        "bisa apa",
+        "Kamu siapa?",
+        "Kamu bisa menjawab apa ?",
+        "apa yang bisa kamu jawab"
+      ],
+      "responses": [
+        "Haloo! ChatBot ini didesain untuk menjawab beberapa pertanyaan mengenai materi pelajaran pendidikan karakter dalam bahasa Indonesia, <br>apa yang bisa saya bantu?"
+      ]
+    },
+    {
+      "tag": "Salam",
+      "patterns": [
+        "Assalamualaikum",
+        "Assalamualaikum warahmatullahi",
+        "Assalamualaikum warahmatullahi wabarakatuh",
+        "Assalamualaikum wr wb"
+      ],
+      "responses": [
+        "Waalaikumsalam warahmatullahi wabarakatuh.. Haloo! ChatBot ini didesain untuk menjawab beberapa pertanyaan mengenai materi pendidikan karakter dalam bahasa Indonesia, apa yang bisa saya bantu?"
+      ]
+    },
+    {
+      "tag": "tidak mengerti",
+      "patterns": [
+        "",
+        " ",
+        ".",
+        ",",
+        "( )",
+        "<",
+        ">",
+        "/",
+        "|",
+        "[ ]",
+        "+",
+        "-",
+        "_",
+        "*",
+        "%",
+        "^",
+        "&",
+        "$",
+        "#",
+        "@",
+        "!",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "0",
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g",
+        "h",
+        "i",
+        "j",
+        "k",
+        "l",
+        "m",
+        "n",
+        "o",
+        "q",
+        "r",
+        "s",
+        "t",
+        "u",
+        "v",
+        "w",
+        "x",
+        "y",
+        "z"
+      ],
+      "responses": [
+        "Saya tidak mengerti, Mohon masukkan pesan dengan benar"
+      ]
+    },
+    {
+      "tag": "Pokok Materi",
+      "patterns": [
+        "Apa saja materi pada pelajaran pendidikan karakter ?",
+        "chatbot ini berisikan materi apa saja",
+        "materi pelajaran pendidikan karakter",
+        "materi pendidikan karakter ini terdiri dari apa saja ?",
+        "materi pendidikan karakter ini terdiri dari bab apa saja",
+        "ada berapa bab materi pendidikan karakter",
+        "materi pendidikan karater ini ada berapa bab",
+        "apa saja pokok materi pada pelajaran ini",
+        "apa saja pokok materi pada pelajaran pendidikan karakter",
+        "pokok materi mata pelajaran pendidikan karakter",
+        "pokok materi pendidikan karakter",
+        "apa saja materi materi yang tersedia pada chat bot ini",
+        "apa saja materi mengenai pendidikan karakter yang terdapat pada chatbot ini",
+        "materi pendidikan karakter ini ada berapa bab?",
+        "pokok bahasan materi pendidikan karakter",
+        "apa saja pokok bahasan pada mata pelajaran pendidikan karakter",
+        "pokok materi pendidikan karakter",
+        "pokok bahasan pendidikan karakter",
+        "materi pelajaran pendidikan karakter",
+        "materi apa saja yang diajarkan dalam pembelajaran pendidikan karakter",
+        "apa bahan-bahan yang dibahas dalam pelajaran pendidikan karakter",
+        "pada pembelajaran pendidikan karakter, materi apa saja yang disampaikan ?",
+        "apa saja topik yang dibahas dalam pembelajaran pendidikan karakter ?",
+        "pada pelajaran pendidikan karakter, apa saja materi yang dijelaskan ?",
+        "apa isi materi pendidikan karakter",
+        "garis besar materi pendidikan karakter",
+        "garis besar materi apa saja yang dipelajari pada pelajaran pendidikan karakter",
+        "apa saja garis besar atau pokok bahasan di pelajaran pendidikan karakter"
+
+      ],
+      "responses": [
+        "Materi ini terbagi menjadi 7 bab yaitu : <br><br>Bab 1 Pendidikan <br><br>Bab 2 Lingkungan Pendidikan dan Hubungan Antara Lingkungan Pendidikan <br><br>Bab 3 Pendidikan Karakter <br><br>Bab 4 Pendidikan Sebagai Modal Dalam Membangun Karakter Bangsa <br><br>Bab 5 Pendidikan Karakter Dalam Islam <br><br>Bab 6 Pendidikan Karakter dan Penilaian Hasil Belajar <br><br>Bab 7 Menuju Kepemimpinan Pendidikan Karakter"
+      ]
+    },
+    {
+      "tag": "Pokok bab 1",
+      "patterns": [
+        "Bab 1 mempelajari tentang apa saja ?",
+        "apa saja yang dipelajari di bab 1",
+        "materi apa yang diajarkan dalam bab 1",
+        "materi apa saja yang dipelajari pada bab 1",
+        "apa saja materi yang diajarkan di bab 1",
+        "apa isi pembelajaran yang ada di bab 1",
+        "materi bab 1",
+        "pokok bahasan bab 1",
+        "materi apa yang dijelaskan di bab 1",
+        "apa yang dibahas pada bab 1",
+        "apa saja pokok bahasan pada bab 1 ",
+        "Bab satu mempelajari tentang apa saja ?",
+        "apa saja yang dipelajari di bab satu",
+        "materi apa yang diajarkan dalam bab satu",
+        "materi apa saja yang dipelajari pada bab satu",
+        "apa saja materi yang diajarkan di bab satu",
+        "apa isi pembelajaran yang ada di bab satu",
+        "materi bab satu",
+        "pokok bahasan bab satu",
+        "materi apa yang dijelaskan di bab satu",
+        "apa yang dibahas pada bab satu",
+        "apa saja pokok bahasan pada bab satu"
+
+      ],
+      "responses": [
+        "Pada bab 1 mempelajari mengenai etimologi pendidikan, terminologi pendidikan, kegiatan manusiawi, tindakan edukatif, tindakan didaktis, generasi yang sedang bertumbuh dan persoalan seputar tujuan pendidikan."
+      ]
+    },
+    {
+      "tag": "Pokok bab 2",
+      "patterns": [
+        "Bab 2 mempelajari tentang apa saja ?",
+        "apa saja yang dipelajari di bab 2",
+        "materi apa yang diajarkan dalam bab 2",
+        "materi apa saja yang dipelajari pada bab 2",
+        "apa saja materi yang diajarkan di bab 2",
+        "apa isi pembelajaran yang ada di bab 2",
+        "materi bab 2",
+        "pokok bahasan bab 2",
+        "materi apa yang dijelaskan di bab 2",
+        "apa yang dibahas pada bab 2",
+        "apa saja pokok bahasan pada bab 2",
+        "Bab dua mempelajari tentang apa saja ?",
+        "apa saja yang dipelajari di bab dua",
+        "materi apa yang diajarkan dalam bab dua",
+        "materi apa saja yang dipelajari pada bab dua",
+        "apa saja materi yang diajarkan di bab dua",
+        "apa isi pembelajaran yang ada di bab dua",
+        "materi bab dua",
+        "pokok bahasan bab dua",
+        "materi apa yang dijelaskan di bab dua",
+        "apa yang dibahas pada bab dua",
+        "apa saja pokok bahasan pada bab dua"
+
+      ],
+      "responses": [
+        "Pada bab 2 mempelajari mengenai pengertian lingkungan pendidikan, fungsi lingkungan pendidikan, ragam bentuk lingkungan pendidikan, hubungan antara keluarga, sekolah, dan masyarakat."
+      ]
+    },
+    {
+      "tag": "Pokok bab 3",
+      "patterns": [
+        "Bab 3 mempelajari tentang apa saja ?",
+        "bab 3 pendidikan karakter",
+        "apa saja yang dipelajari di bab 3",
+        "materi apa yang diajarkan dalam bab 3",
+        "materi apa saja yang dipelajari pada bab 3",
+        "apa saja materi yang diajarkan di bab 3",
+        "apa isi pembelajaran yang ada di bab 3",
+        "materi bab 3",
+        "pokok bahasan bab 3",
+        "materi apa yang dijelaskan di bab 3",
+        "apa yang dibahas pada bab 3",
+        "apa saja pokok bahasan pada bab 3 ",
+        "Bab tiga mempelajari tentang apa saja ?",
+        "apa saja yang dipelajari di bab tiga",
+        "materi apa yang diajarkan dalam bab tiga",
+        "materi apa saja yang dipelajari pada bab tiga",
+        "apa saja materi yang diajarkan di bab tiga",
+        "apa isi pembelajaran yang ada di bab tiga",
+        "materi bab tiga",
+        "pokok bahasan bab tiga",
+        "materi apa yang dijelaskan di bab tiga",
+        "apa yang dibahas pada bab tiga",
+        "apa saja pokok bahasan pada bab tiga"
+
+      ],
+      "responses": [
+        "Pada bab 3 mempelajari mengenai pengertian pendidikan karakter, landasan pendidikan karakter di Indonesia, tujuan pendidikan karakter, unsur pendidikan karakter, pelaksanaan pendidikan karakter, pentingnya pendidikan karakter bagi bangsa indonesia, ragam pendidikan karakter, perspektif pendidikan karakter, instrumen efektivitas pendidikan karakter, dan alasan pentingnya nilai karakter dalam perangkat pembelajaran."
+      ]
+    },
+    {
+      "tag": "Pokok bab 4",
+      "patterns": [
+        "Bab 4 mempelajari tentang apa saja ?",
+        "bab 4 pendidikan karakter",
+        "apa saja yang dipelajari di bab 4",
+        "materi apa yang diajarkan dalam bab 4",
+        "materi apa saja yang dipelajari pada bab 4",
+        "apa saja materi yang diajarkan di bab 4",
+        "apa isi pembelajaran yang ada di bab 4",
+        "materi bab 4",
+        "pokok bahasan bab 4",
+        "materi apa yang dijelaskan di bab 4",
+        "apa yang dibahas pada bab 4",
+        "apa saja pokok bahasan pada bab 4",
+        "Bab empat mempelajari tentang apa saja ?",
+        "apa saja yang dipelajari di bab empat",
+        "materi apa yang diajarkan dalam bab empat",
+        "materi apa saja yang dipelajari pada bab empat",
+        "apa saja materi yang diajarkan di bab empat",
+        "apa isi pembelajaran yang ada di bab empat",
+        "materi bab empat",
+        "pokok bahasan bab empat",
+        "materi apa yang dijelaskan di bab empat",
+        "apa yang dibahas pada bab empat",
+        "apa saja pokok bahasan pada bab empat"
+
+      ],
+      "responses": [
+        "Pada bab 4 mempelajari mengenai ciri karakter sumber daya manusia, pembentukan SDM yang berkarakter, hubungan antara pendidikan dan pembentukan karakter, implementasi pendidikan karakter, dan peran pendidik dalam membentuk karakter SDM."
+      ]
+    },
+    {
+      "tag": "Pokok bab 5",
+      "patterns": [
+        "Bab 5 mempelajari tentang apa saja ?",
+        "bab 5 pendidikan karakter",
+        "apa saja yang dipelajari di bab 5",
+        "materi apa yang diajarkan dalam bab 5",
+        "materi apa saja yang dipelajari pada bab 5",
+        "apa saja materi yang diajarkan di bab 5",
+        "apa isi pembelajaran yang ada di bab 5",
+        "materi bab 5",
+        "pokok bahasan bab 5",
+        "materi apa yang dijelaskan di bab 5",
+        "apa yang dibahas pada bab 5",
+        "apa saja pokok bahasan pada bab 5",
+        "Bab lima mempelajari tentang apa saja ?",
+        "apa saja yang dipelajari di bab lima",
+        "materi apa yang diajarkan dalam bab lima",
+        "materi apa saja yang dipelajari pada bab lima",
+        "apa saja materi yang diajarkan di bab lima",
+        "apa isi pembelajaran yang ada di bab lima",
+        "materi bab lima",
+        "pokok bahasan bab lima",
+        "materi apa yang dijelaskan di bab lima",
+        "apa yang dibahas pada bab lima",
+        "apa saja pokok bahasan pada bab lima"
+
+      ],
+      "responses": [
+        "Pada bab 5 mempelajari mengenai dasar pembentukan karakter islami, membangun dan menumbuhkan karakter yang bernuansa islami, arah dan metode pendidikan karakter dalam islam, serta tujuan pendidikan karakter dalam islam."
+      ]
+    },
+    {
+      "tag": "Pokok bab 6",
+      "patterns": [
+        "Bab 6 mempelajari tentang apa saja ?",
+        "bab 6 pendidikan karakter",
+        "apa saja yang dipelajari di bab 6",
+        "materi apa yang diajarkan dalam bab 6",
+        "materi apa saja yang dipelajari pada bab 6",
+        "apa saja materi yang diajarkan di bab 6",
+        "apa isi pembelajaran yang ada di bab 6",
+        "materi bab 6",
+        "pokok bahasan bab 6",
+        "materi apa yang dijelaskan di bab 6",
+        "apa yang dibahas pada bab 6",
+        "apa saja pokok bahasan pada bab 6",
+        "Bab enam mempelajari tentang apa saja ?",
+        "apa saja yang dipelajari di bab enam",
+        "materi apa yang diajarkan dalam bab enam",
+        "materi apa saja yang dipelajari pada bab enam",
+        "apa saja materi yang diajarkan di bab enam",
+        "apa isi pembelajaran yang ada di bab enam",
+        "materi bab enam",
+        "pokok bahasan bab enam",
+        "materi apa yang dijelaskan di bab enam",
+        "apa yang dibahas pada bab enam",
+        "apa saja pokok bahasan pada bab enam"
+
+      ],
+      "responses": [
+        "Pada bab 6 mempelajari mengenai penilaian karakter, nilai-nilai sebagai materi pendidikan karakter, dan penilaian hasil belajar pendidikan karakter."
+      ]
+    },
+    {
+      "tag": "Pokok bab 7",
+      "patterns": [
+        "Bab 7 mempelajari tentang apa saja ?",
+        "bab 7 pendidikan karakter",
+        "apa saja yang dipelajari di bab 7",
+        "materi apa yang diajarkan dalam bab 7",
+        "materi apa saja yang dipelajari pada bab 7",
+        "apa saja materi yang diajarkan di bab 7",
+        "apa isi pembelajaran yang ada di bab 7",
+        "materi bab 7",
+        "pokok bahasan bab 7",
+        "materi apa yang dijelaskan di bab 7",
+        "apa yang dibahas pada bab 7",
+        "apa saja pokok bahasan pada bab 7",
+        "Bab tujuh mempelajari tentang apa saja ?",
+        "apa saja yang dipelajari di bab tujuh",
+        "materi apa yang diajarkan dalam bab tujuh",
+        "materi apa saja yang dipelajari pada bab tujuh",
+        "apa saja materi yang diajarkan di bab tujuh",
+        "apa isi pembelajaran yang ada di bab tujuh",
+        "materi bab tujuh",
+        "pokok bahasan bab tujuh",
+        "materi apa yang dijelaskan di bab tujuh",
+        "apa yang dibahas pada bab tujuh",
+        "apa saja pokok bahasan pada bab tujuh"
+
+      ],
+      "responses": [
+        "Pada bab 7 mempelajari mengenai pengertian kepemimpinan, kepemimpinan pendidikan berbasis moral, kepemimpinan pendidikan berbasis spiritual, implementasi kepemimpinan pendidikan berbasis karakter, dan karakter kepemimpinan pendidikan Indonesia."
+      ]
+    },
+    {
+      "tag": "etimologis pendidikan",
+      "patterns": [
+        "Secara bahasa pengertian dari pendidikan yaitu ?",
+        "Pendidikan secara bahasa adalah ?",
+        "Pengertian pendidikan secara bahasa adalah ?",
+        "Jelaskan pengertian pendidikan secara bahasa ?",
+        "Apa yang dimaksud dengan pendidikan jika dikaji secara bahasa ?",
+        "Apa yang dimaksud dengan pendidikan menurut bahasa ?",
+        "Apa yang kamu ketahui mengenai definisi pendidikan secara bahasa ?",
+        "Pendidikan secara bahasa mempunyai makna ?",
+        "Apa makna pendidikan secara bahasa ?",
+        "Secara bahasa pendidikan adalah ?",
+        "Pendidikan secara bahasa",
+        "Definisi pendidikan secara bahasa adalah ?",
+        "Pendidikan menurut bahasa berarti apa ?",
+        "Tuliskan pengertian pendidikan secara bahasa ?",
+        "Arti kata pendidikan menurut bahasa asalnya ?",
+        "Apa makna pendidikan menurut asal katanya ?",
+        "Apa definisi pendidikan dari segi asal katanya ?",
+        " Apa definisi pendidikan menurut asal usul katanya ?",
+        " Apa yang dimaksud dengan pendidikan jika dilihat dari asal katanya ?",
+        "Definisi pendidikan dari asal katanya adalah ?",
+        " Dalam bahasa aslinya, apa arti dari pendidikan ?",
+        " Menurut asal katanya pendidikan adalah ?",
+        "Menurut asal katanya, apa arti dari kata pendidikan ?",
+        " Secara etimologi pendidikan adalah ?",
+        " Pendidikan secara etimologi ",
+        " Pendidikan secara etimologis adalah ?",
+        " Apa arti pendidikan secara etimologi ?",
+        " Apa yang kamu ketahui mengenai definisi pendidikan secara etimologi ?",
+        "Apa definisi pendidikan secara etimologi ?",
+        "Secara etimologis pendidikan adalah ?",
+        " Secara etimologi apa arti dari kata pendidikan ?",
+        "Jelaskan pengertian pendidikan secara etimologi ",
+        "Apa makna dari kata pendidikan secara etimologi ?",
+        "Secara etimologi pendidikan mempunyai makna yaitu ?"
+      ],
+      "responses": [
+        "Secara etimologis pendidikan berasal dari kata Latin yaitu educare dan educere. Kata educare dalam bahasa Latin memiliki arti melatih atau menjinakkan dan menyuburkan. Jadi, pendidikan merupakan sebuah proses membantu menumbuhkan, mengembangkan, mendewasakan, membuat yang tidak tertata menjadi tertata. <br>Secara historis kata pendidikan banyak dipakai untuk mengacu pada berbagai macam pengertian, misalnya pembangunan (deveploment), pertumbuhan atau perkembangan, formasio, sosiolisasi, inkulturasi, pengajaran, pelatihan, pembaruan. Kata pendidikan juga melibatkan interaksi dengan berbagai macam lingkungan lembaga khusus, seperti keluarga, sekolah, dan lain-lain."
+      ]
+    },
+    {
+      "tag": "terminologi pendidikan",
+      "patterns": [
+        "Secara istilah pengertian dari pendidikan yaitu ?",
+        "Pendidikan secara istilah adalah ?",
+        "Pengertian pendidikan secara istilah adalah ?",
+        "Jelaskan pengertian pendidikan secara istilah",
+        "Apa yang dimaksud dengan pendidikan jika dikaji menurut istilah ",
+        "Apa yang dimaksud dengan pendidikan menurut istilah ",
+        "Apa yang kamu ketahui mengenai definisi pendidikan secara terminologi ",
+        "Pendidikan secara istilah mempunyai makna ?",
+        "Apa makna pendidikan secara istilah ?",
+        "Secara istilah pendidikan adalah ?",
+        "Pendidikan secara istilah ",
+        "Definisi pendidikan secara istilah adalah ?",
+        "Pendidikan menurut istilah berarti apa ?",
+        "Tuliskan pengertian pendidikan secara istilah ?",
+        "Arti kata pendidikan menurut istilah ?",
+        "Apa makna pendidikan berdasarkan istilahnya ?",
+        "Apa definisi pendidikan dari segi istilah ?",
+        "Apa definisi pendidikan menurut istilah ",
+        "Apa yang dimaksud dengan pendidikan jika dilihat dari istilahnya ?",
+        "Definisi pendidikan dari istilahnya adalah ?",
+        "Menurut istilah pendidikan adalah ?",
+        "Menurut istilah, apa arti dari kata pendidikan ?",
+        "Secara terminologi pendidikan adalah ?",
+        "Pendidikan secara terminologi",
+        "Pendidikan secara terminologis adalah ?",
+        "Apa arti pendidikan secara terminologi ?",
+        "Apa yang kamu ketahui mengenai definisi pendidikan secara terminologi ?",
+        "Apa definisi pendidikan secara terminologi ?",
+        "Secara terminologi yang dimaksud dengan pendidikan adalah ?",
+        "Secara terminologi apa arti dari kata pendidikan ?",
+        "Jelaskan pengertian pendidikan secara terminologi ",
+        "Apa makna dari kata pendidikan secara terminologi ?",
+        "Secara terminologi pendidikan mempunyai makna yaitu"
+
+      ],
+      "responses": [
+        "Pendidikan merupakan usaha manusia untuk menumbuhkan dan mengembangkan potensi-potensi pembawaan baik jasmani maupun rohani sesuai dengan nilai-nilai yang ada di dalam masyarakat dan kebudayaan. Maka dari itu, pendidikan perlu ditunjang dengan lingkungan pendidikan yang baik. Karena lingkungan pendidikan merupakan segala sesuatu yang ada di sekitar manusia dalam berinteraksi baik berupa benda mati, makhluk hidup, maupun hal-hal yang terjadi dan sebagai tempat dalam menyalurkan kemampuan-kemampuan untuk membentuk perkembangan setiap individu yang mempunyai pengaruh kuat kepada individu."
+      ]
+    },
+    {
+      "tag": "Undang-undang pendidikan",
+      "patterns": [
+        "Definisi pendidikan menurut Undang-undang",
+        "menurut undang-undang apa itu definisi pendidikan",
+        "undang undang pendidikan",
+        "isi dari undang undang no 2 tahun 1989",
+        "Undang undang no 2 tahun 1989 berbunyi",
+        "UU no 2 tahun 1989 isinya yaitu",
+        "menurut undang undang no 2 tahun 1989 pendidikan adalah",
+        "menurut ketentuan dalam undang undang no 2 tahun 1989 pendidikan didefinisikan sebagai",
+        "sesuai dengan peraturan perundang undangan nomor 2 tahun 1989 definisi pendidikan adalah",
+        "berdasarkan undang undang nomor 2 tahun 1989 definisi pendidikan adalah",
+        "menurut uu no 2 tahun 1989 pendidikan adalah",
+        "menurut peraturan uu no 2 tahun 1989 definisi dari pendidikan ialah"
+
+      ],
+      "responses": [
+        "Menurut UU No.2 Tahun 1989 Pendidikan adalah usaha sadar untuk menyiapkan peserta didik melalui kegiatan bimbingan, pengajaran, dan atau latihan bagi peranannya dimasa yang akan datang. <br><br>Menurut UU No. 20 Tahun 2003 Pendidikan adalah usaha sadar dan terencana untuk mewujudkan suasana belajar dan proses pembelajaran agar peserta didik secara aktif me- ngembangkan potensi dirinya untuk memiliki kekuatan spiritual keagamaaan, pengendalian diri, kepribadian, kecerdasan, akhlak mulia, serta ketrampilan yang diperlukan dirinya, masyarakat, bangsa, dan Negara."
+      ]
+    },
+    {
+      "tag": "pendidikan menurut ahli",
+      "patterns": [
+        "Definisi pendidikan menurut para ahli",
+        "menurut pakar, pendidikan adalah",
+        "menurut para ahli pendidikan adalah",
+        "pandangan para ahli mengenai definisi pendidikan",
+        "tuliskan pengertian pendidikan menurut para ahli",
+        "apa saja pengertian pendidikan menurut ahlinya",
+        "apa definisi dari pendidikan yang dikemukakan oleh para ahli",
+        "menurut Langeveld pendidikan yaitu",
+        "pengertian pendidikan menurut langeveld",
+        "menurut john dewey pendidikan adalah",
+        "pengertian pendidikan menurut john dewey",
+        "menurut ki hajar dewantara pendidikan adalah",
+        "definisi pendidikan menurut ki hajar dewantara",
+        "menurut para ahli definisi dari pendidikan adalah",
+        "bagaimana para ahli memberikan definisi tentang pendidikan ?",
+        "interpretasi pendidikan dari sudut pandang ahli",
+        "perspektif para ahli mengenai pengertian pendidikan",
+        "siapa saja ahli ahli yang mengemukakan definisi dari pendidikan ?",
+        "para ahli mengatakan bahwa definisi dari pendidikan adalah ?",
+        "bagaimana pandangan dari para ahli terkait definisi pendidikan ?"
+      ],
+      "responses": [
+        "Menurut Langeveld Pendidikan adalah setiap usaha, pengaruh, perlindungan dan bantuan yang diberikan kepada anak tertuju pada pendewasaan anak itu, atau lebih tepat membantu anak agar cukup cakap melaksanakan tugas hidupnya sendiri. <br><br>Menurut John Dewey Pendidikan adalah proses pembentukan kecakapan-kecakapan fundamental secara intelektual dan emosional ke arah alam dan sesame manusia. <br><br>Menurut Ki Hajar Dewantara Pendidikan adalah tuntunan didalam hidup tumbuhnya anak-anak, adapun maksudnya, yaitu menuntun segala kekuatan kodrat yang ada pada anak itu, agar mereka sebagai manusia dan anggota masyarakat dapatlah mencapai keselamatan dan kebahagiaan yang setinggi-tingginya."
+      ]
+    },
+    {
+      "tag": "kamus pendidikan",
+      "patterns": [
+        "Dalam Dictionary of Education dinyatakan bahwa pendidikan adalah ?",
+        "menurut Dictionary of Education pendidikan diartikan sebagai",
+        "dalam kamus pendidikan, tertera bahwa pendidikan merupakan ?",
+        "kamus pendidikan mendefinisikan bahwa yang dimaksud dengan pendidikan yaitu ?",
+        "tuliskan definisi pendidikan menurut Dictionary of Education",
+        "menurut kamus pendidikan definisi dari pendidikan yaitu ?",
+        "pengertian pendidikan menurut Dictionary of Education",
+        "menurut keterangan dalam kamus pendidikan, tertera bahwa pendidikan adalah ?",
+        "apa pengertian dari pendidikan berdasarkan kamus pendidikan",
+        "Dictionary of Education menjelaskan bahwa pendidikan adalah ?",
+        "sesuai dengan penjelasan dalam kamus pendidikan, pendidikan diartikan sebagai ?"
+
+      ],
+      "responses": [
+        "Proses seorang mengembangkan kemampuan, sikap dan tingkah laku lainnya di dalam masyarakat tempat mereka hidup. Proses sosial yang terjadi pada orang yang dihadapkan pada pengaruh lingkungannya yang terpilih dan terkontrol (khususnya yang datang di sekolah), sehingga mereka dapat memperoleh perkembangan kemampuan sosial dan kemampuan individu yang optimum."
+      ]
+    },
+    {
+      "tag": "kegiatan manusiawi",
+      "patterns": [
+        "Pendidikan sebagai sebuah kegiatan manusiawi",
+        "apa yang dimaksud dengan pendidikan sebagai sebuah kegiatan manusiawi",
+        "sebagai sebuah kegiatan manusiawi, pendidikan merupakan ?",
+        "bagaimana pendidikan dijelaskan sebagai aktivitas manusiawi ?",
+        "tuliskan apa yang kamu ketahui mengenai pendidikan sebagai sebuah kegiatan manusiawi "
+
+      ],
+      "responses": [
+        "Sebagai sebuah kegiatan manusiawi, pendidikan membuat manusia membuka diri terhadap dunia. Manusia berkembang melalui kegiatan membudaya dalam memaknai sejarahnya di dunia ini, memahami kebebasannya yang selalu ada dalam situasi agar mereka semakin mampu memberdayakan dirinya. Dalam bahasa Driyarkara, kondisi ini disebut sebagai pengangkatan diri sendiri di atas kodrat alam dan dunia material di atas determinisnya. <br>Sebagai sebuah kegiatan manusiawi, pendidikan juga menyertakan dimensi penggolongan kelas dalam corak relasionalisnya. Dalam penggunaan kata sehari-hari, misalnya ketika kita mengatakan pendidikan, apa yang dimaksudkan terutama adalah sebuah kegiatan manusiawi yang berkaitan dengan figur yang memiliki peran khusus, seperti orang tua, guru, pengajar, dosen, imam, pendidik. Singkatnya pendidikan bisa mengacu pada semua subjek yang memiliki konteks relasional secara khusus dengan subjek lain, memiliki relasi yang sifatnya interpersonal, sebuah relasi terarah pada proses pemeliharaan, penumbuhan, dan membentuk seorang individu yang sedang ada di dalam proses pertumbuhan."
+      ]
+    },
+    {
+      "tag": "tindakan edukatif",
+      "patterns": [
+        "Pendidikan sebagai tindakan edukatif",
+        "apa yang dimaksudkan dengan pendidikan sebagai tindakan edukatif ?",
+        "mengapa pendidikan dikatakan sebagai tindakan edukatif ?",
+        "arti yang terkandung dalam pendidikan sebagai tindakan edukatif menjelaskan bahwa ?",
+        "apa yang kamu ketahui mengenai pendidikan sebagai tindakan edukatif",
+        "tindakan edukatif pendidikan",
+        "pendidikan dikatakan sebagai tindakan edukatif karena",
+        "mengapa pendidikan merupakan tindakan edukatif ?",
+        "alasan mengapa pendidikan disebut sebagai tindakan edukatif karena ?",
+        "pendidikan dimaknai sebagai tindakan edukatif yang berarti ?"
+
+      ],
+      "responses": [
+        "Tindakan edukatif mengacu pada sebuah intervensi sengaja baik secara individu maupun dalam kelompok untuk mempromosikan sebuah proses menjadi secara penuh dalam diri pribadi, individu ataupun komunitas dengan memperhatikan dimensi global dan aspek-aspek yang menyertainya. Dalam tindakan edukatif, seorang individu mampu membaktikan diri dan setia pada nilai yang diyakininya. Nilai itu bisa berupa pemahaman tentang keberadaan dirinya sebagai manusia, nilai-nilai pengetahuan yang berguna bagi hidupnya. Tujuan tindakan ini adalah untuk mengafirmasi diri, mengukuhkan eksistensi manusia, maupun untuk proses produksi. Tindakan edukatif mengatasi tindakan secara tradisional melibatkan para pendidik, seperti guru, orang tua, atau tokoh masyarakat. Demikian juga tindakan edukatif bisa mengacu pada tindakan dari mereka secara sosial memiliki peran dan fungsi sebagai pendidik sesuai dengan peran, cara, serta corak relasi mereka secara interpersonal satu sama lain."
+      ]
+    },
+    {
+      "tag": "tindakan didaktis",
+      "patterns": [
+        "Pendidikan sebagai tindakan didaktis",
+        "tindakan didaktis pendidikan yaitu",
+        "tuliskan mengapa pendidikan dikatakan sebagai tindakan didaktis",
+        "arti dari pendidikan sebagai tindakan didaktis adalah",
+        "pendidikan dimaksudkan sebagai tindakan didaktis yang berarti ?",
+        "inti dari pendidikan sebagai tindakan didaktis adalah ?",
+        "yang dimaksud dengan pendidikan sebagai tindakan didaktis adalah ?",
+        "pendidikan sebagai tindakan didaktis yang berarti ?",
+        "tujuan yang ingin dicapai melalui pendidikan sebagai tindakan didaktis adalah ?",
+        "tindakan didaktis merupakan tujuan pendidikan yang berarti ?"
+
+      ],
+      "responses": [
+        "Pendidikan sebagai tindakan didaktis tertuju pada proses pengajaran dan objek-objek pembelajaran. Secara lebih khusus, tindakan didaktis adalah proses pengajaran dalam sebuah lembaga pendidikan atau lembaga formasi yang dipandu melalui kehadiran dan peranan orang-orang tertentu yang memang memiliki kualifikasi tertentu untuk proses tersebut. Jadi, ada hubungan fungsional antara orang-orang yang memiliki kualifikasi dan kompetensi yang memang ditujukan demi tercapainya tujuan pembelajaran. Proses pembelajaran di kelas yang menawarkan sebuah situasi didaktis yang sangat kompleks tidak hanya menuntut para guru untuk dapat dan mampu menguasai dan mengarahkan kelas secara baik, melainkan menjadi semacam bagian inti dari kompetensi dan kinerja profesionalnya. Untuk inilah dibutuhkan beberapa keterampilan, seperti kemampuan untuk mengatur dan menguasai kelas sehingga kelas menjadi tempat yang nyaman buat belajar, sikap fleksibel dalam menerapkan dan mengaplikasikan isi pembelajaran, pengetahuan yang mendalam tentang objek material yang sedang diajarkan, serta memiliki berbagai macam metode pengajaran sehingga ia dengan lancar dapat menularkan pengetahuan itu kepada anak didik secara efektif dan menyenangkan."
+      ]
+    },
+    {
+      "tag": "dua dimensi tindakan didaktis",
+      "patterns": [
+        "Dua dimensi pada tindakan didaktis",
+        "tindakan didaktis mempunyai dua dimensi yaitu ",
+        "apa saja 2 dimensi tindakan didaktis",
+        "tindakan didaktis memiliki 2 dimensi yaitu?",
+        "2 komponen penting dari pendidikan sebagai tindakan didaktis adalah ?",
+        "apa itu dimensi teknis praktis ?",
+        "apa itu dimensi sosial etis ?",
+        "yang dimaksud dengan dimensi teknis praktis pada tindakan didaktis adalah ?",
+        "maksud dari dimensi sosial etis dari tindakan didaktis yaitu ?",
+        "apa yang kamu ketahui mengenai dimensi pada tindakan didaktis",
+        "tindakan didaktis terbagi menjadi 2 dimensi yaitu ?",
+        "tindakan didaktis pendidikan terbagi menjadi dua dimensi yaitu",
+        "apa saja dua elemen pada tindakan didaktis ?",
+        "tindakan didaktis mempunyai dua komponen, apa saja ?",
+        "2 karakteristik pada tindakan didaktis yaitu ?",
+        "tuliskan dua dimensi tindakan didaktis yang kamu ketahui",
+        "jelaskan dimensi teknis praktis terhadap tindakan didaktis pendidikan ",
+        "jelaskan dimensi sosial etis dari tindakan didaktis pendidikan",
+        "pendidikan sebagai tindakan didaktis mempunyai 2 dimensi yaitu ?"
+
+      ],
+      "responses": [
+        "Tindakan didaktis memiliki dua dimensi yang menjadi orientasi pendidikan itu sendiri, yaitu dimensi teknis-praktis dan sosial-etis. Dimensi teknis praktis sebuah tindakan didaktis mengacu pada proyek, pengorganisasian, dan penilaian bagi sebuah momen belajar secara valid dan efektif. Ini berarti suatu keseluruhan ketika para siswa dapat dan mau belajar secara bermakna, stabil, dan menghasilkan buah-buah pembelajaran secara nyata sebagaimana diarahkan oleh guru sebagai objek pembelajaran. Dimensi sosial-etis mengacu pada dimensi nilai yang ingin ditanamkan dalam diri para siswa, seperti berbagai macam cara untuk menilai sebuah keputusan, perilaku, penilaian, dan relasi yang menjadi ciri dari tindakan didaktis tersebut. jadi, dimensi sosial-etis lebih menyangkut unsur pengembangan dimensi instrinsik dalam diri siswa yang berlangsung secara konsisten, stabil, berupa model perilaku dan sikap, sesuai dengan konteks dan situasi yang sedang dihadapinya."
+      ]
+    },
+    {
+      "tag": "fungsi normatif pendidikan",
+      "patterns": [
+        "Tiga fungsi normatif pendidikan",
+        "apa saja fungsi normatif pendidikan",
+        "jelaskan 3 fungsi normatif pendidikan",
+        "tuliskan tiga fungsi normatif pendidikan yang kamu ketahui",
+        "fungsi normatif pendidikan terbagi menjadi 3 yaitu",
+        "secara normatif ada tiga fungsi tujuan pendidikan yaitu ?",
+        "apa saja 3 fungsi normatif pendidikan",
+        "ada beberapa tujuan pendidikan yaitu ?",
+        "apa saja tujuan dari pendidikan ?",
+        "sebutkan tujuan dari pendidikan ?",
+        "pendidikan mempunyai suatu tujuan, apa saja tujuan tersebut?",
+        "berikan 3 fungsi normatif pendidikan yang kamu ketahui",
+        "tujuan pendidikan berdasarkan fungsi normatifnya adalah ?",
+        "berdasarkan fungsi normatifnya tujuan dari pendidikan adalah ?"
+
+      ],
+      "responses": [
+        "Secara normatif ada tiga fungsi tujuan pendidikan. <br><br>Pertama, tujuan sebagai pedoman arah tujuan pendidikan bersifat direktif dan orientasional bagi lembaga pendidikan. <br><br>Kedua, tujuan pendidikan tidak hanya mengarahkan proses pendidikan, melainkan juga menjadi sumber motivasi yang menggerakkan insan pendidikan untuk mengarahkan seluruh waktu dan tenaganya pada tujuan tersebut. <br><br>Ketiga, tujuan pendidikan menjadi dasar atau kriteria untuk melaksanakan sebuah evaluasi bagi kinerjanya pendidikan, sehingga dapat menilai apakah pendidikan yang  dilakukan tersebut efektif, bermakna, dan berguna."
+      ]
+    },
+    {
+      "tag": "Pendidikan sebagai orientasi kelembagaan",
+      "patterns": [
+        "Pendidikan sebagai orientasi kelembagaan",
+        "yang dimaksud dengan pendidikan sebagai orientasi kelembagaan adalah ?",
+        "pendidikan bersifat direktif atau orientatif bagi kinerja lembaga pendidikan artinya adalah ?",
+        "makna dari pendidikan sebagai arah kelembagaan adalah ?",
+        "jelaskan maksud dari fungsi pertama tujuan pendidikan",
+        "fungsi normatif pendidikan yang pertama berisi?",
+        "tujuan dari pendidikan sebagai orientasi kelembagaan adalah ?"
+
+      ],
+      "responses": [
+        "Tujuan dalam pendidikan bersifat direktif atau orientatif bagi kinerja lembaga pendidikan. Tujuan pendidikan yang demikian ini bersifat intuitif ke masa depan yang akan menjadi pandu bagi campur tangan pendidikan pada masa kini. Dengan demikian kegiatan pendidikan itu memiliki arah, dan arah ini akan memberikan hasil-hasil tertentu atas campur tangan pendidikan."
+      ]
+    },
+    {
+      "tag": "Pendidikan sebagai motivator bagi individu",
+      "patterns": [
+        "Pendidikan sebagai motivator bagi individu",
+        "yang dimaksud dengan pendidikan sebagai motivator bagi individu adalah ?",
+        "jelaskan makna dari fungsi yang kedua dari tujuan pendidikan",
+        "fungsi normatif pendidikan yang kedua isinya adalah ?",
+        "pendidikan sebagai pendorong individu, mengacu pada konsep bahwa ?",
+        "pendidikan memiliki peran sebagai motivator yang memberikan dorongan kepada individu, yang berarti ?",
+        "mengapa pendidikan merupakan motivator bagi individu ?",
+        "apakah pendidikan menjadi motivasi bagi setiap individu ?"
+
+      ],
+      "responses": [
+        "Pendidikan bukan sekadar menjadi orientasi secara kelembagaan, melainkan juga menjadi motivasi bagi setiap individu yang terlibat di dalam dunia pendidikan. Tanpa ada tujuan yang jelas, pendidikan tidak akan menghasilkan pribadi yang cerdas dan dewasa, sebab mereka tidak tahu kemana dan untuk apa mereka melakukan campur tangan dalam kegiatan pendidikan. Oleh karena itu, tujuan pendidikan yang jelas akan meningkatkan motivasi individu dalam menghayati tugas-tugasnya sesuai dengan kedudukannya dalam lembaga pendidikan."
+      ]
+    },
+    {
+      "tag": "Pendidikan Sebagai Kriteria Evaluasi Kinerja Pendidikan",
+      "patterns": [
+        "Pendidikan Sebagai Kriteria Evaluasi Kinerja Pendidikan",
+        "pendidikan memiliki peran sebagai kriteria evaluasi kinerja pendidikan yang berarti ?",
+        "fungsi normatif pendidikan yang ketiga yaitu?",
+        "apa makna dari fungsi ketiga dalam tujuan pendidikan?",
+        "jelaskan yang kamu ketahui mengenai pendidikan sebagai kriteria evaluasi kinerja pendidikan"
+
+      ],
+      "responses": [
+        "Kemajuan pendidikan hanya bisa ditera apakah tujuan yang ingin diraih ini telah tercapai atau belum. Dengan demikian, tujuan pendidikan bersifat evaluatif bagi kinerja pendidikan. Tanpa ada tujuan pendidikan ini, tidak akan dapat dilakukan evaluasi atas hasil-hasil sebuah pendidikan."
+      ]
+    },
+    {
+      "tag": "asal usul tujuan pendidikan",
+      "patterns": [
+        "asal usul tujuan pendidikan",
+        "darimana sumber tujuan pendidikan berasal ?",
+        "bagaimana asal muasal tujuan pendidikan dapat dijelaskan ?",
+        "tuliskan asal usul tujuan pendidikan yang kamu ketahui ?",
+        "asal usul tujuan pendidikan terbagi menjadi 3, yaitu ?",
+        "darimanakah tujuan pendidikan awalnya berasal ?"
+
+      ],
+      "responses": [
+        "Pertama, ada yang berpendapat bahwa pendidikan bertujuan untuk menjaga keberlangsungan kehidupan sosial dalam masyarakat kita sehingga tujuan pendidikan tidak lain adalah untuk mempersiapkan anak-anak muda supaya dapat dengan lancar tanpa masalah memasuki kehidupan sosial orang-orang dewasa. Tujuan pendidikan dalam artian ini mengacu pada dinamika dan kompleksitas masyarakat. Dengan demikian pendidikan bertujuan untuk membawa, mendidik, dan membesarkan anak-anak remaja sedemikian rupa sehingga pendidikan menjadi sarana persiapan untuk pengembangan kompetensi sebagai orang dewasa sebagaimana dituntutkan dalam masyarakat. Pendidikan bersifat integratif bagi tiap individu ketika memasuki kehidupan sosial. <br><br>Kedua, tujuan pendidikan bisa ditentukan oleh tujuan politis sebuah masyarakat. Pendidikan memang tidak dapat melepaskan diri dari pembentukan manusia didalam masyarakat yang nantinya dapat secara aktif terlibat dalam kehidupan politis, individu hanya menjadi bulan-bulanan permainan para politisi. Tanpa kebebasan mengutarakan pendapatnya didepan public, manusia menghilangkan kesempatan dirinya menjadi agen perubahan masyarakat. Namun demikian, tujuan pendidikan semata-mata pada dimensi politis ini memiskinkan keberadaan manusia yang bukan sekadar sebagai zoon politicon saja. <br><br>Ketiga, adapula yang mendasarkan tujuan pendidikan mereka dari analisis situasi sosial aktual kontemporer dengan cara mendeskripsikan dan menganalisis berbagai macam pekerjaan dan karier yang dikerjakan oleh orang-orang dewasa pada masa kini. Melalui data-data analisis situasi kontemporer ini sekolah mengarahkan anak didik agar tidak mengalami kesulitan ketika harus terjun ketengah masyarakat sesuai pekerjaan yang tersedia dalam masyarakat."
+      ]
+    },
+    {
+      "tag": "lingkungan pendidikan",
+      "patterns": [
+        "Pengertian Lingkungan Pendidikan",
+        "definisi dari lingkungan pendidikan adalah ?",
+        "jelaskan apa yang dimaksud dengan lingkungan pendidikan ?",
+        "apa yang dimaksud dengan lingkungan pendidikan ?",
+        "lingkungan pendidikan didefinisikan sebagai ?",
+        "lingkungan pendidikan adalah ?",
+        "lingkungan pendidikan dapat dipahami sebagai ?",
+        "apa saja yang mencakup pada lingkungan pendidikan ?",
+        "pada dasarnya lingkungan pendidikan berarti ?",
+        "dalam pengertian yang sebenarnya yang dimaksud dengan lingkungan pendidikan adalah ?",
+        "apa itu lingkungan pendidikan ?",
+        "tuliskan apa yang kamu ketahui mengenai lingkungan pendidikan"
+
+      ],
+      "responses": [
+        "Lingkungan pendidikan adalah segala sesuatu yang ada di sekitar manusia, baik berupa benda mati, makhluk hidup ataupun peristiwa-peristiwa yang terjadi termasuk kondisi masyarakat terutama yang dapat memberikan pengaruh kuat kepada individu. Seperti lingkungan tempat pendidikan berlangsung dan lingkungan tempat anak bergaul. Lingkungan ini kemudian secara khusus disebut sebagai lembaga pendidikan sesuai dangan jenis dan tanggung jawab yang secara khusus menjadi bagian dari karakter lembaga."
+      ]
+    },
+    {
+      "tag": "Lembaga Pendidikan",
+      "patterns": [
+        "Lembaga Pendidikan adalah",
+        "jelaskan definisi dari lembaga pendidikan",
+        "apa yang kamu ketahui mengenai lembaga pendidikan",
+        "apa itu lembaga pendidikan ?",
+        "pengertian dari lembaga pendidikan adalah ?",
+        "secara umum lembaga pendidikan dapat dijelaskan sebagai ?",
+        "apakah yang dimaksud dengan lembaga pendidikan ?"
+
+      ],
+      "responses": [
+        "lembaga pendidikan adalah organisasi atau kelompok manusia yang karena satu dan lain hal memikul tanggung jawab atas terlaksananya pendidikan.Badan pendidikan ini bertugas memberi pendidikan kepada terdidik."
+      ]
+    },
+    {
+      "tag": "Fungsi Lembaga Pendidikan",
+      "patterns": [
+        "Fungsi Lembaga Pendidikan",
+        "secara umum fungsi dari lembaga pendidikan adalah ?",
+        "apa peran dari lembaga pendidikan ?",
+        "apa fungsi sebenarnya yang dimiliki oleh lembaga pendidikan ?",
+        "jelaskan fungsi lembaga pendidikan",
+        "yang menjadi peranan utama dari lembaga pendidikan adalah ?",
+        "tuliskan manfaat dari lembaga pendidikan ?",
+        "lembaga pendidikan mempunyai fungsi yaitu ?"
+
+      ],
+      "responses": [
+        "Secara umum fungsi lembaga-lembaga pendidikan adalah menciptakan situasi yang memungkinkan proses pendidikan dapat berlangsung sesuai dengan tugas yang dibebankan kepadanya. Karena itu situasi lembaga pendidikan harus berbeda dengan situasi lembaga lain."
+      ]
+    },
+    {
+      "tag": "cakupan lingkungan pendidikan",
+      "patterns": [
+        "cakupan lingkungan pendidikan",
+        "lingkungan pendidikan mencakup apa saja ?",
+        "apa saja cakupan lingkungan pendidikan ?",
+        "apa saja yang termasuk dalam ruang lingkup lingkungan pendidikan ?",
+        "cakupan lingkungan pendidikan terbagi menjadi 3 yaitu ?",
+        "lingkungan pendidikan mempunyai tiga cakupan yaitu ?",
+        "menurut Hasbullah lingkungan pendidikan mencakup apa saja ?",
+        "menurut para ahli yang mencakup lingkungan pendidikan adalah",
+        "hasbullah membagi lingkungan pendidikan menjadi 3 cakupan yaitu ?",
+        "jelaskan cakupan dari lingkungan pendidikan"
+
+      ],
+      "responses": [
+        "Menurut Hasbullah (2003) lingkungan pendidikan mencakup : <br><br>a. Tempat (lingkungan fisik), keadaan iklim, keadaan tanah, keadaan alam. <br>b. Kebudayaan (lingkungan budaya) dengan warisan budaya tertentu seperti bahasa, seni, ekonomi, ilmu pengetahuan, pandangan hidup dan pandangan keagamaan. <br>c. Kelompok hidup bersama (lingkungan sosial atau masyarakat) keluarga, kelompok bermain"
+      ]
+    },
+    {
+      "tag": "pengaruh lingkungan pendidikan",
+      "patterns": [
+        "pengaruh lingkungan pendidikan terhadap peserta didik adalah ?",
+        "apa dampak lingkungan pendidikan terhadap peserta didik ?",
+        "apa pengaruh lingkungan pendidikan dalam membentuk kebiasaan belajar peserta didik ?",
+        "bagaimana lingkungan pendidikan mempengaruhi peserta didik ?",
+        "bagaimana pengaruh lingkungan pendidikan terhadap peserta didik ?",
+        "jelaskan pengaruh lingkungan terhadap peserta didik"
+
+      ],
+      "responses": [
+        "Lingkungan pendidikan memiliki pengaruh yang berbeda-beda terhadap peserta didik. Perbedaan pengaruh tersebut tergantung jenis lingkungan pendidikan tempat peserta didik terlibat didalamnya. Hal ini karena masing-masing jenis lingkungan pendidikan memiliki situasi sosial yang berbeda-beda. Situasi sosial yang di maksud meliputi faktor perencanaan, sarana dan sistem pendidikan pada masing-masing jenis lingkungan. Intensitas pengaruh lingkungan terhadap peserta didik tergantung sejauh mana anak dapat menyerap rangsangan yang diberikan lingkungannya dan sejauh mana lingkungan mampu memahami dan memberikan fasilitas terhadap kebutuhan pendidikan peserta didik"
+      ]
+    },
+    {
+      "tag": "fungsi lingkungan pendidikan",
+      "patterns": [
+        "fungsi lingkungan pendidikan adalah ?",
+        "apa saja fungsi-fungsi dari lingkungan pendidikan ?",
+        "lima fungsi dari lingkungan pendidikan adalah ?",
+        "sebutkan fungsi lingkungan pendidikan yang kamu ketahui",
+        "ada berapa fungsi lingkungan pendidikan ?",
+        "5 fungsi lingkungan pendidikan yaitu ?",
+        "lingkungan pendidikan mempunyai 5 fungsi yaitu ?",
+        "jelaskan fungsi lingkungan pendidikan"
+
+      ],
+      "responses": [
+        "Fungsi lingkungan pendidikan adalah sebagai berikut :<br><br>a. Lingkungan pendidikan dapat menjamin kehidupan emosional peserta didik untuk tumbuh dan berkembang. Kehidupan emosional ini sangat penting dalam pembentukan pribadi anak. <br><br>b. Lingkungan pendidikan membantu peserta didik dalam berinteraksi dengan berbagai lingkungan sekitarnya baik lingkungan fisik, sosial, maupun budaya, terutama berbagai sumber daya pendidikan yang tersedia agar dapat dicapai tujuan pendidikan secara optimal. <br><br>c. Lingkungan pendidikan berfungsi sebagai wahana yang amat besar bagi perkembangan individu dan masyarakat dalam memperluas dan mempercepat usaha mencerdaskan kehidupan bangsa.<br><br>d. Mengajarkan tingkah laku umum dan untuk menyeleksi serta mempersiapkan peranan-peranan tertentu dalam masyarakat. <br><br>e. Didalam lingkungan pendidikan dapat mengembangkan kemampuan-kemampuan yang dimiliki peserta didik baik dalam bentuk karier, akademik, kehidupan beragama, kehidupan sosial budaya, maupun keterampilan lainnya."
+      ]
+    },
+    {
+      "tag": "ragam bentuk lingkungan pendidikan",
+      "patterns": [
+        "ragam bentuk lingkungan pendidikan adalah ?",
+        "jelaskan ragam bentuk dari lingkungan pendidikan",
+        "tri pusat pendidikan yaitu ?",
+        "tri pusat pendidikan berisi 3 hal yaitu ?",
+        "apa saja isi dari tri pusat pendidikan ?",
+        "lingkungan pendidikan mempunyai ragam bentuk berupa ?",
+        "ada berbagai ragam bentuk lingkungan pendidikan yaitu ?"
+
+      ],
+      "responses": [
+        "Lingkungan pendidikan adalah tempat seseorang memperoleh pendidikan secara langsung atau tidak langsung. Oleh karena itu, lingkungan pendidikan ada bersifat sosial dan material. Lingkungan pendidikan secara garis besar besarnya oleh Ki Hajar Dewantoro dibagi menjadi tiga yang disebut dengan Tri Pusat Pendidikan, yaitu keluarga, sekolah dan masyarakat, hal itu sejalan dengan yang dinyatakan oleh Langeveld bahwa yang bertanggung jawab dalam pendidikan adalah keluarga, sekolah dan masyarakat"
+      ]
+    },
+    {
+      "tag": "lingkungan keluarga",
+      "patterns": [
+        "Pendidikan di lingkungan keluarga adalah ?",
+        "apa arti dari pendidikan di lingkungan keluarga ?",
+        "lingkungan pendidikan pertama anak ada dimana ?",
+        "apa lingkungan pendidikan pertama anak ?",
+        "dimana lingkungan pendidikan pertama bagi anak ?",
+        "keluarga merupakan lingkungan pertama bagi anak karena ?",
+        "bagaimana peran pendidikan didalam keluarga ?",
+        "mengapa pendidikan di lingkungan keluarga penting ?",
+        "bagaimana pendidikan di lingkungan keluarga dapat membentuk karakter individu ?",
+        "mengapa pendidikan di lingkungan keluarga itu penting ?",
+        "lingkungan keluarga disebut sebagai lembaga pendidikan apa ?",
+        "apakah pendidikan di lingkungan keluarga itu penting ?",
+        "apa manfaat pendidikan di lingkungan keluarga ?",
+        "apa saja yang diajarkan kepada anak didalam lingkungan keluarga ?",
+        "lingkungan keluarga mengajarkan apa saja kepada anak ?",
+        "lingkungan keluarga bisa berbentuk apa saja ?"
+
+      ],
+      "responses": [
+        "Keluarga merupakan lingkungan pertama bagi anak, di lingkungan keluarga pertama-tama anak mendapatkan pengaruh kesadaran. Karena itu keluarga merupakan kelompok primer yang terdiri dari sejumlah keluarga kecil karena hubungan sedarah yang bersifat informal dan kodrati dan menjadi lembaga pendidikan tertua. Keluarga bisa berbentuk keluarga inti (nucleus family: ayah, ibu, dan anak), ataupun keluarga yang diperluas (di samping inti, ada orang lain seperti kakek, nenek, ipar dan lain sebagainya). Keluarga merupakan unit pertama dan institusi pertama dalam masyarakat yang didalamnya hubungan-hubungan yang terdapat didalamnya bersifat langsung. Disitulah berkembang individu dan terbentuknya tahap-tahap awal proses pemasyarakatan. Melalui interaksi tersebut diperoleh pengetahuan, keterampilan, minat, nilai-nilai, emosi dan sikapnya dalam hidup dan dengan itu diperoleh ketenangan dan ketentraman. Keluarga sebagai lembaga pendidikan mempunyai peranan penting dalam membentuk generasi muda. Keluarga disebut pula sebagai lembaga pendidikan informal. Keluarga sebagai lingkungan pendidikan yang pertama sangat penting dalam membentuk pola kepribadian anak. Karena di dalam keluarga, anak pertama kali berkenalan dengan nilai dan norma. Keluarga didasarkan pada cinta kasih yang sangat natural, sehingga suasana pendidikan yang berlangsung di dalamnya berdasarkan kepada suasana yang tanpa memikirkan hak"
+      ]
+    },
+    {
+      "tag": "pendidikan informal",
+      "patterns": [
+        "Pendidikan informal adalah",
+        "apa yang dimaksud dengan pendidikan informal ?",
+        "bagaimana kita bisa mengartikan pendidikan informal ?",
+        "bagaimana pendefinisian pendidikan informal ?",
+        "apa makna dari pendidikan informal ?",
+        "apa pengertian dari pendidikan informal ?",
+        "apa arti pendidikan informal ?",
+        "pendidikan informal",
+        "bagaimana definisi dari pendidikan informal",
+        "secara sederhana apa yang dimaksud dengan pendidikan informal ?",
+        "apa itu pendidikan informal ?",
+        "jelaskan apa yang dimaksud dengan pendidikan informal",
+        "pengertian pendidikan informal yaitu ?",
+        "definisi dari pendidikan informal adalah ?"
+
+      ],
+      "responses": [
+        "Pendidikan informal adalah kegiatan pendidikan yang tidak diorganisasikan secara struktural dan tidak mengenal penjenjangan kronologis menurut tingkatan umum maupun tingkatan keterampilan dan pengetahuan"
+      ]
+    },
+    {
+      "tag": "keluarga secara etimologi",
+      "patterns": [
+        "Secara bahasa definisi keluarga adalah ?",
+        "keluarga secara etimologi artinya ?",
+        "Pengertian keluarga secara bahasa adalah ?",
+        "Jelaskan pengertian keluarga secara bahasa ?",
+        "yang dimaksud dengan keluarga jika dilihat secara bahasa artinya ?",
+        "Apa yang dimaksud dengan keluarga menurut bahasa ?",
+        "Apa yang kamu ketahui mengenai definisi keluarga secara bahasa ?",
+        "keluarga secara bahasa mempunyai makna ?",
+        "Apa makna keluarga secara bahasa ?",
+        "Secara bahasa keluarga adalah ?",
+        "keluarga secara bahasa",
+        "Definisi keluarga secara bahasa adalah ?",
+        "keluarga menurut bahasa berarti ?",
+        "Tuliskan pengertian keluarga secara bahasa ?",
+        "Apa yang dimaksud dengan keluarga jika dilihat dari asal katanya ?",
+        "Definisi keluarga dari asal katanya adalah ?",
+        "Dalam bahasa aslinya, apa arti dari keluarga ?",
+        "Menurut asal katanya keluarga adalah ?",
+        "Menurut asal katanya, apa arti dari kata keluarga ?",
+        "Secara etimologi definisi keluarga adalah ?",
+        "keluarga secara etimologi ",
+        "keluarga secara etimologis adalah ?",
+        "Apa arti keluarga secara etimologi ?",
+        "Apa yang kamu ketahui mengenai definisi keluarga secara etimologi ?",
+        "Apa definisi keluarga secara etimologi ?",
+        "Secara etimologis, keluarga adalah ?",
+        "Secara etimologi apa arti dari kata keluarga ?",
+        "Jelaskan pengertian keluarga secara etimologi ",
+        "Apa makna dari kata keluarga secara etimologi ?",
+        "Secara etimologi keluarga mempunyai makna yaitu ?",
+        "menurut ki hajar dewantoro definisi keluarga adalah ?",
+        "apa definisi dari keluarga menurut ki hajar dewantoro",
+        "ki hajar dewantoro mendefinisikan keluarga sebagai ?"
+
+      ],
+      "responses": [
+        "Keluarga secara etimologi menurut Ki Hajar Dewantoro, seperti dijelaskan oleh Abu Ahmad bahwa bagi bangsa Indonesia perkataan keluarga dikenal sebagai rangkaian perkataan-perkataan kawula dan warga. Sebagaimana yang diketahui, maka kawula itu tidak lain artinya dari pada abdi yakni hamba sedangkan warga berarti anggota. Sebagai abdi dalam keluarga wajiblah seseorang disitu menyerahkan segala kepentingan-kepentingan kepada keluarganya. Sebaliknya sebagai warga atau anggota ia berhak sepenuhnya pula untuk ikut mengurus segala kepentingan di dalam keluarga tadi"
+      ]
+    },
+    {
+      "tag": "antropologi keluarga",
+      "patterns": [
+        "keluarga dalam pandangan antropologi adalah ?",
+        "apa pandangan antropologi mengenai definisi dari keluarga ?",
+        "apa definisi keluarga menurut sudut pandang antropologi ?",
+        "perspektif antropologi mengenai keluarga",
+        "pandangan antropologi terhadap definisi keluarga adalah ?",
+        "jelaskan apa itu keluarga menurut pandangan antropologi",
+        "pengertian keluarga menurut pandangan antropologi yaitu ?",
+        "bagaimana pandangan antropologi terkait pengertian dari keluarga ?",
+        "bagaimana keluarga dijelaskan dalam pandangan antropologi ?",
+        "bagaimana konsep keluarga dalam perspektif antropologi ?"
+
+      ],
+      "responses": [
+        "Keluarga dalam pandangan antropologi adalah kesatuan-kesatuan kecil yang memiliki tempat tinggal dan ditandai oleh kerjasama yang sangat erat"
+      ]
+    },
+    {
+      "tag": "keluarga secara sosiologis",
+      "patterns": [
+        "keluarga dalam pandangan sosiologis adalah ?",
+        "secara sosiologis keluarga adalah ?",
+        "bagaimana pandangan sosiologi terhadap definisi keluarga ?",
+        "apa definisi keluarga menurut pandangan sosiologi ?",
+        "apa konsep keluarga dalam perspektif sosiologi ?",
+        "perspektif sosiologi terhadap definisi keluarga",
+        "pengertian keluarga dalam pandangan sosiologi yaitu ?",
+        "bagaimana definisi dari keluarga dalam pandangan sosiologi ?",
+        "bagaimana sosiologi menjelaskan definisi dari keluarga",
+        "menurut pandangan sosiologi, apa yang dimaksud dengan keluarga ?"
+
+      ],
+      "responses": [
+        "Secara sosiologis keluarga adalah bentuk masyarakat kecil yang terdiri dari beberapa individu yang terkait suatu keturunan, yakni kesatuan antara ayah, ibu dan anak yang merupakan kesatuan kecil dari bentuk-bentuk kesatuan masyarakat"
+      ]
+    },
+    {
+      "tag": "dasar motivasi pengabdian keluarga",
+      "patterns": [
+        "apa dasar motivasi pengabdian keluarga ?",
+        "apa yang menjadi landasan motivasi pengabdian keluarga ?",
+        "motivasi pengabdian keluarga didasarkan pada ?",
+        "dasar motivasi pengabdian keluarga adalah ?",
+        "jelaskan apa yang menjadi motivasi pengabdian keluarga dalam mendidik anak ?",
+        "dalam mendidik anak di lingkungan keluarga, motivasi pengabdian keluarga didasarkan pada ?"
+
+      ],
+      "responses": [
+        "Motivasi pengabdian keluarga didasarkan pada cinta kasih yang sangat natural, sehingga suasana pendidikan yang berlangsung didalamnya berdasarkan kepada suasana yang tanpa memikirkan hak. Motivasi pengabdian keluarga (orang tua) semata-mata demi cinta kasih yang kodrati. Didalam suasana cinta dan kemesraan inilah proses pendidikan berlangsung seumur anak itu dalam tanggung jawab keluarga"
+      ]
+    },
+    {
+      "tag": "dasar tanggung jawab keluarga terhadap pendidikan anak",
+      "patterns": [
+        "apa saja dasar dasar tanggung jawab keluarga terhadap pendidikan anak ?",
+        "apa yang termasuk kedalam dasar tanggung jawab keluarga terhadap pendidikan anak ?",
+        "apa dasar tanggung jawab keluarga dalam mendidik anaknya",
+        "apa saja landasan tanggung jawab keluarga dalam mengurus pendidikan anaknya?",
+        "apa yang menjadi dorongan keluarga dalam mendidik anak ?",
+        "apa motivasi keluarga dalam mendidik anaknya ?",
+        "motivasi apa yang dimiliki oleh keluarga ketika mendidik anaknya ?",
+        "sebutkan dasar tanggung jawab keluarga terhadap pendidikan anaknya",
+        "jelaskan 3 dasar tanggung jawab keluarga dalam mendidik anak",
+        "ada berapa dasar tanggung jawab keluarga dalam mendidik anaknya ?"
+
+      ],
+      "responses": [
+        "1) Dorongan/motivasi cinta kasih yang menjiwai hubungan orang tua dengan anak. Cinta kasih ini mendorong sikap dan tindakan rela menerima tanggung jawab, dan mengabdikan dirinya untuk sang anak. <br><br>2) Dorongan/motivasi kewajiban moral, sebagai konsekuensi kedudukan orang tua terhadap keturunannya. Tanggung jawab moral ini meliputi nilai-nilai religius spiritual yang dijiwai ketuhanan Yang Maha Esa dan agama masing-masing disamping didorong oleh kesadaran memelihara martabat dan kehormatan keluarga.<br><br>3) Tanggung jawab sosial sebagai bagian dari keluarga, yang pada gilirannya juga menjadi bagian dari masyarakat, bangsa dan negaranya, bahkan kemanusiaan"
+      ]
+    },
+    {
+      "tag": "pendidikan yang orangtua harus berikan ke anak",
+      "patterns": [
+        "apa saja pendidikan yang orangtua harus berikan ke anak ?",
+        "apa jenis jenis pendidikan yang harus diberikan oleh orang tua kepada anak ?",
+        "apa saja bidang pendidikan yang orang tua harus berikan untuk anaknya ?",
+        "dasar pendidikan apa yang orangtua harus berikan kepada anak ?",
+        "orangtua harus memberikan dasar pendidikan apa saja kepada anaknya ?",
+        "selain dasar pendidikan budi pekerti, dasar pendidikan apa lagi yang orang tua harus berikan kepada anak ?",
+        "ada berapa dasar pendidikan yang orang tua harus berikan kepada anak ?",
+        "apa aspek-aspek pendidikan yang harus diberikan oleh orangtua dalam membentuk karakter anak ?",
+        "jelaskan dasar pendidikan yang orang tua harus berikan ke anak",
+        "sebutkan dasar pendidikan apa saja yang orang tua harus berikan untuk anaknya ?"
+
+      ],
+      "responses": [
+        "1) Dasar pendidikan budi pekerti dengan cara memberikan norma pandangan hidup tertentu walaupun masih dalam pola yang masih sederhana. <br><br>2) Dasar pendidikan sosial dengan cara melatih anak dengan tata cara bergaul dan berkomunikasi yang baik terhadap lingkungan sosial sekitar. <br><br>3) Dasar pendidikan intelek dengan cara mengajar anak tentang kaidah-kaidah bertutur bahasa yang baik. <br><br>4) Dasar pembentukan kebiasaan pembinaan kepribadian yang baik dan wajar dengan membiasakan anak hidup teratur bersih,disiplin dan rajin. <br><br>5) Dasar pendidikan kekeluargaan dengan memberikan apresiasi terhadap keluarga<br><br>6) Dasar pendidikan nasionalisme dan patriotisme dan berperikemanusiaan untuk mencintai bangsa dan tanah air. <br><br>7) Dasar pendidikan agama,melatih dan membiasakan anak beribadah kepada Tuhan dengan meningkatkan aspek keimanan dan ketakwaan"
+      ]
+    },
+    {
+      "tag": "fungsi dan peranan pendidikan keluarga",
+      "patterns": [
+        "jelaskan fungsi pendidikan keluarga ?",
+        "apa peranan dari pendidikan keluarga ?",
+        "apa fungsi serta peranan pendidikan dalam lingkungan keluarga ?",
+        "apa yang menjadi fungsi dan peran pendidikan dalam keluarga untuk membentuk karakter anak ?",
+        "fungsi dan peranan pendidikan keluarga yaitu ?",
+        "lima fungsi dan peranan pendidikan di lingkungan keluarga",
+        "bagaimana peran dan fungsi pendidikan di lingkungan keluarga ?",
+        "fungsi dan peranan pendidikan keluarga ada 5 yaitu ?",
+        "jelaskan fungsi pendidikan di lingkungan keluarga",
+        "jelaskan lima peranan dan fungsi pendidikan dalam lingkungan keluarga",
+        "apa peranan pendidikan di lingkungan keluarga ?",
+        "dalam lingkungan keluarga apa fungsi dan peranan pendidikan ?",
+        "jelaskan 5 fungsi dan peranan pendidikan keluarga"
+
+      ],
+      "responses": [
+        "1) Pengalaman Pertama Masa Kanak-kanak <br><br>Lingkungan pendidikan keluarga memberikan pengalaman pertama yang merapakan faktor penting dalam perkembangan pribadi anak. Suasana pendidikan keluarga ini sangat penting diperhatikan, sebab dari sinilah keseimbangan jiwa di dalam perkembangan individu selanjutnya ditentukan. <br><br>2) Menjamin Kehidupan Emosional Anak <br><br>Melalui pendidikan keluarga ini, kehidupan emosional atau kebutuhan akan rasa kasih sayang dapat dipenuhi atau dapat berkembang dengan baik, hal ini dikarenakan adanya hubungan darah antara pendidikan dengan anak didik, sebab orang tua hanya menghadapi sedikit anak didik dan karena hubungan tadi didasarkan atas rasa cinta kasih sayang murni. <br><br>3) Menanamkan Dasar Pendidikan Moral <br><br>Di dalam keluarga juga merapakan penanaman utama dasar-dasar moral bagi anak, yang biasanya tercermin dalam sikap dan perilaku orang tua sebagai teladan yang dapat di contoh anak. <br><br>4) Memberikan Dasar Pendidikan Sosial <br><br>Perkembangan benih-benih kesadaran sosial pada anak-anak dapat dipupuk sedini mungkin, terutama lewat kehidupan keluarga yang penuh rasa tolong-menolong, gotong royong secara kekeluargaan, menolong saudara atau tetangga yang sakit, bersama-sama menjaga ketertiban, kedamaian, kebersihan dan keserasian dalam segala hal.<br><br>5) Peletakan Dasar-dasar Agama <br><br>Masa kanak-kanak adalah masa yang paling baik untuk meresapkan dasar-dasar kehidupan beragama, dalam hal ini tentu terjadi dalam keluarga. Anak-anak seharusnya dibiasakan ikut serta ke masjid bersama-sama untuk menjalankan ibadah, mendengarkan khutbah atau ceramah keagamaan, kegiatan seperti ini besar sekali pengaruhnya terhadap kepribadian anak"
+      ]
+    },
+    {
+      "tag": "hambatan dalam pendidikan keluarga",
+      "patterns": [
+        "apa saja hambatan dalam pendidikan keluarga ?",
+        "apa saja rintangan yang dihadapi dalam pendidikan di lingkungan keluarga ?",
+        "apa kendala yang muncul dalam proses pendidikan keluarga ?",
+        "yang menjadi hambatan dalam pendidikan di lingkungan keluarga yaitu ?",
+        "sebutkan kendala-kendala yang ada didalam pendidikan lingkungan keluarga",
+        "sebutkan hambatan apa saja yang ada dalam pendidikan keluarga",
+        "hambatan dalam pendidikan keluarga yaitu ?",
+        "macam-macam hambatan dalam pendidikan di lingkungan keluarga adalah ?",
+        "apa yang menjadi halangan dalam pendidikan di lingkungan keluarga ?",
+        "jelaskan kesulitan apa yang sering muncul dalam pendidikan di lingkungan keluarga",
+        "apa hambatan yang umumnya ditemui dalam pendidikan keluarga ?",
+        "jelaskan macam-macam kendala pendidikan di lingkungan keluarga",
+        "kendala yang kerap timbul dalam pendidikan di lingkungan keluarga yaitu ?"
+
+      ],
+      "responses": [
+        "1) Anak kurang mendapatkan perhatian dan kasih sayang dari orang tua. <br><br>2) Figur orang tua yang tidak mampu memberikan keteladanan pada anak. <br><br>3) Sosial ekonomi keluarga yang kurang atau sebaliknya yang tidak bisa menunjang belajar. <br><br>4) Kasih sayang orang tua yang berlebihan sehingga cenderung untuk memanjakan anak. <br><br>5) Orang tua yang tidak bisa memberikan rasa aman kepada anak, tuntutan orang tua yang terlalu tinggi. <br><br>6) Orang tua yang tidak bisa memberikan kepercayaan kepada anak. <br><br>7) Orang tua yang tidak bisa membangkitkan inisiatif dan kreatifitas kepada anak"
+      ]
+    },
+    {
+      "tag": "lingkungan sekolah",
+      "patterns": [
+        "pendidikan formal adalah ?",
+        "Pendidikan di lingkungan sekolah adalah ?",
+        "apa arti dari pendidikan di lingkungan sekolah ?",
+        "pendidikan di sekolah mencakup ?",
+        "bagaimana peran pendidikan didalam lingkungan sekolah ?",
+        "pendidikan di lingkungan sekolah apakah diperlukan ?",
+        "bagaimana pendidikan di lingkungan sekolah dapat membentuk karakter peserta didik ?",
+        "mengapa pendidikan di lingkungan sekolah itu penting ?",
+        "lingkungan sekolah disebut sebagai lembaga pendidikan apa ?",
+        "apakah pendidikan di lingkungan sekolah itu penting ?",
+        "apa manfaat pendidikan di lingkungan sekolah ?",
+        "apa saja yang diajarkan kepada anak didalam lingkungan sekolah ?",
+        "lingkungan sekolah mengajarkan apa saja kepada anak ?",
+        "lingkungan sekolah bisa berbentuk apa saja ?",
+        "apa yang dimaksud dengan pendidikan formal ?",
+        "bagaimana kita bisa mengartikan pendidikan formal ?",
+        "bagaimana pendefinisian pendidikan formal ?",
+        "apa makna dari pendidikan formal ?",
+        "apa pengertian dari pendidikan formal ?",
+        "apa arti pendidikan formal ?",
+        "pendidikan formal",
+        "secara sederhana apa yang dimaksud dengan pendidikan formal ?",
+        "apa itu pendidikan formal ?",
+        "jelaskan apa yang dimaksud dengan pendidikan formal",
+        "pengertian pendidikan formal yaitu ?",
+        "definisi dari pendidikan formal adalah ?",
+        "pendidikan sekolah biasa disebut sebagai pendidikan formal karena ?",
+        "apakah pendidikan di lingkungan sekolah itu termasuk kedalam pendidikan formal ?",
+        "terdiri atas apa saja lembaga pendidikan formal di Indonesia ?",
+        "di Indonesia lembaga pendidikan formal adalah ?"
+
+      ],
+      "responses": [
+        "Pendidikan di sekolah mencakup pendidikan umum dalam mempersiapkan peserta didik menguasai kemampuan dasar untuk melanjutkan pendidikan atau memasuki lapangan kerja. Pendidikan sekolah biasanya disebut sebagai pendidikan formal karena ia adalah pendidikan yang mempunyai dasar, tujuan, isi, metode, alat-alatnya yang disusun secara eksplisit, sistematis, dan distandarisasikan. Penjabaran fungsi sekolah sebagai pusat pendidikan formal, terlihat pada tujuan instruksional, yaitu tujuan kelembagaan pada masing-masing jenis dalam tingkatan sekolah. Di Indonesia lembaga pendidikan formal adalah pra sekolah, Sekolah Dasar, Sekolah Menengah Pertama, dan Sekolah Menengah Atas yang terdiri dari sekolah menengah umum dan kejuruan, serta perguruan tinggi dengan aneka ragam bidangnya. Tujuan institusional untuk masing-masing tingkat atau jenis pendidikan, pencapaiannya di topang oleh tujuan-tujuan kurikuler dan tujuan instruksional"
+      ]
+    },
+    {
+      "tag": "fungsi pendidikan berdasarkan asas tanggung jawab",
+      "patterns": [
+        "apa fungsi pendidikan berdasarkan asas tanggung jawab ?",
+        "apa saja peran pendidikan yang didasarkan pada asas tanggung jawab ?",
+        "berdasarkan asas tanggung jawab, apa fungsi pendidikan",
+        "sebutkan 3 asas tanggung jawab terhadap fungsi pendidikan",
+        "fungsi pendidikan berdasarkan asas tanggung jawab ada 3 yaitu ?",
+        "tiga asas tanggung jawab dalam fungsi pendidikan yaitu ?",
+        "jelaskan tiga asas tanggung jawab mengenai fungsi pendidikan"
+
+      ],
+      "responses": [
+        "1) Tanggung jawab formal kelembagaan sesuai dengan fungsi dan tujuan yang ditetapkan menurut ketentuan-ketentuan yang berlaku. <br><br>2) Tanggung jawab keilmuan berdasarkan bentuk, isi, tujuan dan tingkat pendidikan yang dipercayakan kepadanya oleh masyarakat dan negara. <br><br>3) Tanggung jawab fungsional ialah tanggung jawab profesional pengelola dan pelaksana pendidikan yang menerima ketetapan ini berdasarkan ketentuan-ketentuan jabatannya"
+      ]
+    },
+    {
+      "tag": "3 cara evaluasi pendidikan",
+      "patterns": [
+        "3 cara evaluasi pendidikan ?",
+        "bagaimana cara-cara evaluasi pendidikan ?",
+        "apa saja 3 cara dalam mengevaluasi pendidikan",
+        "tiga cara dalam evaluasi pendidikan",
+        "apa saja tahapan yang ada dalam evaluasi pendidikan ?",
+        "jelaskan cara dalam mengevaluasi pendidikan",
+        "apa yang kamu ketahui mengenai evaluasi pendidikan",
+        "dalam mengevaluasi pendidikan cara yang dilakukan terbagi menjadi 3 yaitu ?",
+        "evaluasi pendidikan terbagi menjadi 3 cara yaitu ?",
+        "sebutkan tiga cara dalam evaluasi pendidikan",
+        "evaluasi pendidikan mempunyai tiga tahapan yaitu ?",
+        "sebutkan bagaimana evaluasi pendidikan dilakukan ?",
+        "apa itu evaluasi pendidikan secara formatif ?",
+        "evaluasi pendidikan formatif adalah ?",
+        "evaluasi pendidikan sumatif adalah ?",
+        "kapan dilakukan evaluasi formatif ?",
+        "evaluasi pendidikan sumatif kapan dilakukan ?",
+        "apakah UN atau ujian nasional termasuk kedalam evaluasi pendidikan ?",
+        "Ujian nasional itu bagian dari evaluasi pendidikan ?",
+        "UN atau ujian nasional adalah ?",
+        "untuk apa dilaksanakannya evaluasi pendidikan berupa ujian nasional atau UN",
+        "evaluasi pendidikan mempunyai tiga cara yaitu ?",
+        "apa saja metode evaluasi yang dapat digunakan dalam mengevaluasi pendidikan ?",
+        "bagaimana cara evaluasi kemampuan siswa ?",
+        "apa saja cara-cara yang dapat dilakukan dalam melakukan evaluasi terhadap kemampuan siswa",
+        "3 metode dalam evaluasi kemampuan siswa yaitu ?"
+
+      ],
+      "responses": [
+        "Evaluasi untuk mengukur kemampuan peserta didik untuk menyelesaikan pendidikannya pada suatu jenjang atau jenis pendidikan dilakukan melalui 3 cara yaitu : <br><br>1) Formatif, dilakukan setiap selesai satu sesi pembelajaran <br><br>2) Sumatif, yang dilakukan setiap semester atau setiap tahun <br><br>3) UN (Ujian Nasional) adalah evaluasi yang diselenggarakan pada sekolah yang diselenggarakan oleh pemerintah atau sekolah swasta yang berada dalam naungan pemerintah. Ujian ini bertujuan untuk mengawasi kualitas penyelenggaraan pendidikan dan bermaksud untuk mengukur kompetensi murid yang akan menyelesaikan pendidikan pada satu tingkat lembaga supaya mempunyai standar kualitas minimal yang relatif sama secara nasional"
+      ]
+    },
+    {
+      "tag": "jenjang sekolah",
+      "patterns": [
+        "Sekolah bersifat klasikal artinya ?",
+        "sekolah mempunyai sifat berjenjang artinya ?",
+        "ciri ciri jenjang sekolah adalah ?",
+        "jenjang sekolah terdiri dari apa saja ?",
+        "jelaskan jenjang yang ada didalam sekolah",
+        "terdapat beberapa tipe jenjang sekolah yaitu ?",
+        "apa saja jenis jenis jenjang sekolah ?",
+        "jelaskan ciri ciri jenjang sekolah ?",
+        "jenjang sekolah terbagi menjadi apa saja ?",
+        "ragam jenis jenjang sekolah yaitu ?",
+        "jelaskan berbagai macam jenjang sekolah",
+        "tipe tipe jenjang sekolah terdiri atas ?",
+        "ada beberapa kategori jenjang sekolah yaitu",
+        "jenjang sekolah memiliki ciri ciri yaitu ?",
+        "apa itu jenjang lembaga ?",
+        "jelaskan mengenai jenjang lembaga",
+        "jenjang lembaga terdiri atas apa saja ?",
+        "jenjang lembaga dikelola oleh ?",
+        "jelaskan mengenai jenjang kelas",
+        "apa itu jenjang kelas ?",
+        "jenjang kelas terdiri dari ?",
+        "apakah perguruan tinggi menggunakan jenjang kelas ?"
+
+      ],
+      "responses": [        
+      "Sekolah sebagai pendidikan formal dirancang sedemikian rupa agar lebih efektif dan efisien, yaitu bersifat klasikal dan berjenjang. Sistem klasikal memungkinkan sejumlah anak belajar bersama dan dipimpin oleh seorang atau beberapa orang guru sebagai fasilitator. Sekolah memiliki ciri jenjang yang dapat dijelaskan sebagi berikut :<br><br>1) Jenjang lembaga, sekolah dirancang dengan berbagai tingkatan, dari Taman Kanak-Kanak (TK) sampai perguruan tinggi (PT). sebagian dikelola oleh Kementerian Pendidikan Nasional dan sebagian lainnya dikelola oleh Kementerian Agama. <br><br>2) Jenjang kelas, berjenjang menurut tingkatan kelas, murid hanya bisa mengikuti pendidikan pada kelas yang lebih tinggi apabila ia telah mampu menyelesaikan pendidikan di tingkat sebelumnya. Jenjang kelas ini bervariasi, yaitu di tingkat SD/MI terdiri dari enam kelas, SMP/MTs terdiri dari tiga kelas, SMA/MA/sederajat terdiri dari tiga kelas, sedangkan di Perguruan Tinggi tidak ditentukan dengan jenjang kelas melainkan semester"
+    ]
+    },
+    {
+      "tag": "lingkungan masyarakat",
+      "patterns": [
+        "Pendidikan di lingkungan masyarakat adalah ?",
+        "apa arti dari pendidikan di lingkungan masyarakat ?",
+        "lingkungan pendidikan yang terakhir ada dimana ?",
+        "apa lingkungan pendidikan yang terakhir ?",
+        "dimana lingkungan pendidikan terakhir ?",
+        "masyarakat merupakan pendidikan terakhir karena ?",
+        "bagaimana peran pendidikan didalam masyarakat ?",
+        "mengapa pendidikan di lingkungan masyarakat penting ?",
+        "pendidikan masyarakat adalah pendidikan tersier karena ?",
+        "pendidikan di lingkungan masyarakat itu penting karena ?",
+        "lingkungan masyarakat disebut sebagai lembaga pendidikan apa ?",
+        "apakah pendidikan di lingkungan masyarakat itu penting ?",
+        "apa manfaat pendidikan di lingkungan masyarakat ?",
+        "apa saja yang diajarkan didalam lingkungan masyarakat ?",
+        "lingkungan masyarakat mengajarkan apa saja ?",
+        "lingkungan masyarakat bersifat permanen karena ?"
+
+      ],
+      "responses": [
+        "Secara sederhana masyarakat dapat diartikan sebagai kumpulan individu dan kelompok yang diikat oleh kesatuan negara dan kebudayaan. Setiap masyarakat mempunyai cita- cita, peraturan-peraturan dan sistem kekuasaan tertentu. Lembaga pendidikan ini berorientasi langsung kepada hal-hal yang bertalian dengan kehidupan. Pendidikan masyarakat merupakan pendidikan yang menunjang pendidikan keluarga dan sekolah. Masyarakat besar pengaruhnya dalam memberi arah terhadap pendidikan anak, terutama para pemimpin masyarakat atau penguasa yang ada di dalamnya. Corak dan ragam pendidikan yang dialami seseorang dalam  masyarakat meliputi segala bidang, baik pembentukan kebiasaan-kebiasaan, pembentukan pengertian (pengetahuan) sikap dan minat, maupun pembentukan kesusilaan dan keagamaan. Dalam perkembangannya lembaga pendidikan menjadi sarana pengembangan pribadi kearah kesempurnaan sebagai hasil dari pengumpulan dan latihan secara terus menerus. Lembaga pendidikan kemasyarakatan dapat mengambil bentuk organisasi kepanduan, perkumpulan pemuda, olahraga, kesenian, remaja mesjid, majlis taklim, koperasi, pusat keterampilan dan latihan, partai politik, perkumpulan agama dan lain-lain. Sosial atau masyarakat adalah pendidikan tersier yang merupakan pendidikan terakhir, tapi bersifat permanen dengan pendidiknya masyarakat itu sendiri secara sosial, kebudayaan adat istiadat dan kondisi masyarakat setempat sebagai lingkungan material"
+      ]
+    },
+    {
+      "tag": "lembaga pendidikan masyarakat",
+      "patterns": [
+        "bentuk lembaga pendidikan masyarakat yaitu",
+        "apa saja bentuk lembaga pendidikan masyarakat",
+        "sebutkan bentuk bentuk lembaga pendidikan masyarakat",
+        "lembaga pendidikan masyarakat dapat berbentuk apa saja ?",
+        "terdapat beberapa bentuk lembaga pendidikan yaitu ?",
+        "jenis lembaga pendidikan masyarakat yaitu ?",
+        "lembaga pendidikan masyarakat memiliki beberapa bentuk yaitu ?",
+        "jelaskan bentuk lembaga pendidikan masyarakat"
+
+      ],
+      "responses": [
+        "Lembaga pendidikan kemasyarakatan dapat mengambil bentuk sebagai berikut :<br><br>1. organisasi kepanduan<br><br>2. perkumpulan pemuda<br><br>3. perkumpulan olahraga <br><br>4. perkumpulan kesenian<br><br>5. remaja masjid<br><br>6. majlis taklim<br><br>7. koperasi<br><br>8. pusat keterampilan dan latihan<br><br>9. partai politik<br><br>10. perkumpulan agama dan lain-lain"
+      ]
+    },
+    {
+      "tag": "karakteristik pendidikan masyarakat",
+      "patterns": [
+        "sebutkan ciri ciri pendidikan masyarakat",
+        "apa ciri dari pendidikan masyarakat ?",
+        "ciri dari pendidikan masyarakat adalah ?",
+        "karakteristik pendidikan masyarakat yaitu ?",
+        "apa saja karakteristik pendidikan masyarakat ?",
+        "pendidikan masyarakat mempunyai sifat sifat yaitu ?",
+        "sebutkan ciri khas yang melekat pada pendidikan masyarakat",
+        "didalam pendidikan masyarakat terdapat beberapa karakteristik yaitu ?",
+        "karakteristik dari pendidikan masyarakat adalah ?"
+
+      ],
+      "responses": [
+        "Karakteristik dari pendidikan masyarakat yaitu :<br><br>1) Pendidikan diselenggarakan dengan sengaja di luar sekolah <br><br>2) Peserta umumnya mereka yang sudah tidak bersekolah <br><br>3) Pendidikan tidak mengenal jenjang dan program pendidikan untuk jangka waktu pendek. <br><br>4) Peserta tidak perlu homogen <br><br>5) Ada waktu belajar dan metode formal, serta evaluasi yang sistematis. <br><br>6) Isi pendidikan bersifat praktis dan khusus <br><br>7) Keterampilan kerja sangat ditekankan"
+      ]
+    },
+    {
+      "tag": "Kendala pendidikan masyarakat",
+      "patterns": [
+        "apa saja hambatan dalam pendidikan dilingkungan masyarakat ?",
+        "apa saja rintangan yang dihadapi dalam pendidikan di lingkungan masyarakat ?",
+        "apa kendala yang muncul didalam pendidikan masyarakat ?",
+        "yang menjadi hambatan dalam pendidikan di lingkungan masyarakat yaitu ?",
+        "sebutkan kendala-kendala yang ada didalam pendidikan lingkungan masyarakat",
+        "sebutkan hambatan apa saja yang ada dalam pendidikan masyarakat",
+        "hambatan dalam pendidikan masyarakat yaitu ?",
+        "macam-macam hambatan dalam pendidikan di lingkungan masyarakat adalah ?",
+        "apa yang menjadi halangan dalam pendidikan di lingkungan masyarakat ?",
+        "jelaskan kesulitan apa yang sering muncul dalam pendidikan di lingkungan masyarakat",
+        "apa hambatan yang umumnya ditemui dalam pendidikan masyarakat ?",
+        "jelaskan macam macam kendala pendidikan di lingkungan masyarakat",
+        "kendala yang kerap timbul dalam pendidikan di lingkungan masyarakat yaitu ?"
+
+      ],
+      "responses": [
+        "Kendala yang ada dalam pendidikan dilingkungan masyarakat yaitu :<br><br>1) Lingkungan fisik dan nonfisik yang kurang menguntungkan. Lingkungan yang demikian akan banyak menghambat anak dalam belajar. <br><br>2) Tugas yang diberikan lembaga terlalu berat/banyak, sehingga anak tidak dapat menyelesaikan tugas tersebut dengan baik. Terlalu banyaknya kegiatan yang diikuti dalam waktu yang terbatas, bisa menjadi penyebab kegiatan tersebut tidak dilaksanakan dengan baik dan akan mengalami kesulitan, yang akhirnya hasilnya akan kurang. <br><br>3) Apabila nilai dikembangkan oleh anak berbeda/bertentangan dengan nilai/adat yang ada di masyarakat maka akan timbul konflik nilai. Kalau terjadi hal demikian biasanya anak akan mengalami kesulitan dalam menyesuaikan dalam diri terhadap lingkungan tersebut. Keadaan yang demikian biasanya akan berpengaruh terhadap upaya belajar anak."
+      ]
+    },
+    {
+      "tag": "pengaruh sekolah terhadap masyarakat ",
+      "patterns": [
+        "apa pengaruh sekolah terhadap masyarakat ?",
+        "pengaruh sekolah terhadap masyarakat yaitu ?",
+        "dampak sekolah terhadap masyarakat adalah ?",
+        "apa pengaruh yang ditimbulkan oleh sekolah terhadap masyarakat ?",
+        "jelaskan pengaruh sekolah terhadap masyarakat",
+        "bagaimana dampak sekolah terhadap kehidupan masyarakat",
+        "pengaruh yang dimiliki sekolah terhadap masyarakat adalah ?"
+
+      ],
+      "responses": [
+        "Pengaruh sekolah terhadap masyarkat yaitu :<br><br>1) Mencerdaskan Kehidupan Masyarakat. <br><br>Kecerdasan masyarakat dapat dikembangkan melalui pendidikan baik pendidikan formal maupun non formal bahkan informal. Sekolah sebagai pelaksana pendidikan dalam hal ini memegang peran penting karena programnya lebih mantap dan baku dibanding lembaga pendidikan lainnya. Tingkat kecerdasan masyarakat dan peradaban ekonomi sosial sangat membantu sekolah dalam mewujudkan masyarakat yang lebih cerdas. Tingkat kecerdasan masyarakat akan sangat menentukan dalam menghadapi tantangan. <br><br>2) Membawa Virus Pembaharuan bagi Perkembangan Masyarakat. <br><br>Program pendidikan di sekolahan juga mengupayakan terjadinya transformasi pengetahuan, pemikiran dan adanya inovasi bagi perkembangan masyarakat luas. Kualitas hidup masyarakat meningkat bila mereka tidak statis melainkan dinamis bermunculan adanya pembaharuan dan penemuan-penemuan yang dapat terjadi di masyarakat maupun sekolah. Namun sudah menjadi tugas dan kewajiban sekolah untuk menyebarluaskan hasil penemuan dan pembaharuan tersebut.<br><br>3) Melahirkan Warga Masyarakat yang Siap dan Terbekali bagi Kepentingan Kerja di Lingkungan Masyarakat. <br><br>Untuk terjun ke lapangan pekerjaan diperlukan bekal matang, pengetahuan, sikap, dan keterampilan. Sekolah tidak dapat terlepas dari tugas pembekalan hal tersebut. Hal ini tercermin dalam isi kurikulum pada masing-masing lebaga pendidikan (sekolah). Sekolah kejuruan lebih tegas batas spesialisasinya dalam membekali para muridnya dan lebih menekankan pada skill tertentu misalnya SMK pada keterampilan tehnik, keterampilan di bidang ekonomi administrasi, atau kerumah tanggaan. <br><br>4) Melahirkan Sikap-sikap Positif dan Konstruktif bagi Warga Masyarakat, sehingga Tercipta Integrasi Sosial yang Harmonis ditengah-tengah Masyarakat. <br><br>Sikap positif dan konstruktif sungguh sangat didambakan oleh masyarakat, dan sekolah telah membekali murid-muridnya sejak pendidikan dasar sampai perguruan tinggi lawat pendidikan agama, pendidikan moral pancasila, maupun dalam bidang studi lain. Kesadaran hidup bernegara, persatuan dan kesatuan, serta loyalitas warga negara terhadap nusa dan bangsanya secara bertahap ditanamkan pada hati sanubari murid-muridnya sehingga sikap positif dan konstuktif bagi masyarakat dapat terwujud."
+      ]
+    },
+    {
+      "tag": "pengaruh masyarakat terhadap pendidikan ",
+      "patterns": [
+        "apa pengaruh masyarakat terhadap pendidikan ?",
+        "pengaruh masyarakat terhadap pendidikan adalah ?",
+        "dampak masyarakat terhadap pendidikan adalah ?",
+        "apa pengaruh yang ditimbulkan oleh masyarakat terhadap pendidikan ?",
+        "jelaskan pengaruh masyarakat terhadap pendidikan",
+        "bagaimana dampak dari masyarakat terhadap pendidkan",
+        "pengaruh yang dimiliki masyarakat terhadap pendidikan adalah ?",
+        "apa pengaruh masyarakat terhadap pendidikan berdasarkan orientasi dan tujuan pendidikan",
+        "apa pengaruh masyarakat terhadap pendidikan berdasarkan proses pendidikan disekolah",
+        "apa pengaruh masyarakat terhadap orientasi pendidikan ?",
+        "pengaruh masyarakat terhadap proses pendidikan di sekolah adalah ?"
+
+      ],
+      "responses": [
+        "Pengaruh masyarakat terhadap pendidikan yaitu :<br><br>1) Terhadap Orientasi dan Tujuan Pendidikan<br><br>Arah program pendidikan persekolahan biasanya tercermin didalam kurikulum, didalam kenyataannya selalu terjadi perubahan-perubahan didalam suatu jangka tertentu. Perubahan- perubahan tersebut disebabkan oleh pertumbuhan dan perkembangan yang memunculkan orientasi-orientasi dan tujuan-tujuan yang baru yang pasti akan diperhatikan oleh lembaga pendidikan sekolah. Sebagai bukti bahwa identitas suatu masyarakat berpengaruh terhadap program pendidikan disekolah-sekolah adalah dengan berbedanya orientasi dan tujuan pendidikan pada masing-masing negara. Pengaruh pertumbuhan dan perkembangan masyarakat juga terlihat dalam perubahan orientasi dan tujuan pendidikan dari suatu periode tertentu dengan periode berikutnya. Oleh karena itu, dalam relitasnya tidak pernah terdapat kurikulum pendidikan yang berlaku permanen, kurikulum akan selalu disempurnakan dan disesuaikan dengan tuntutan perkembangan yang terjadi di masyarkat.<br><br>2) Terhadap Proses Pendidikan di Sekolah <br><br>Pengaruh masyarakat dibidang sosial budaya dan partisipasinya adalah sesuatu yang jelas membawa pengaruh terhadap berlangsungnya proses pendidikan di sekolah. Adapun pengaruh sosial budaya yang dimaksud biasanya tercermin didalam proses belajar mengajar, baik yang menyangkut pola aktifitas pendidik maupun anak didik didalam proses pendidikan. Dalam kenyataannya berfungsinya proses penyelenggaraan pendidikan disekolah-sekolah tergantung pada kualitas dan kuantitas kompenen manusiawi, fasilitas dana, dan perlengkapan pendidikan. Dalam kaitan ini pengaruh tingkat partisipasi masyarakat seperti diatas tampak sangat besar, karena itulah hubungan pengaruh timbal balik antara tingkat partisipasi masyarakat dengan kulitas proses penyelenggaraan pendidikan sekolah-sekolah, menuntut adanya jalinan hubungan yang harmonis antara sekolah dengan masyarakat. Sementara itu perubahan-perubahan yang terjadi dan ada di masyarakat mempengaruhi pula materi pendidikan disekolah, karena perubahan itu merupakan salah satu sumber yang ada di masyrakat."
+      ]
+    },
+    {
+      "tag": "etimologi pendidikan karakter",
+      "patterns": [
+        "Secara bahasa pengertian dari pendidikan karakter yaitu ?",
+        "Pendidikan karakter secara bahasa adalah ?",
+        "Pengertian pendidikan karakter secara bahasa adalah ?",
+        "Jelaskan pengertian pendidikan karakter secara bahasa ?",
+        "Apa yang dimaksud dengan pendidikan karakter jika dikaji secara bahasa ?",
+        "Apa yang dimaksud dengan pendidikan karakter menurut bahasa ?",
+        "Apa yang kamu ketahui mengenai definisi pendidikan karakter secara bahasa ?",
+        "Pendidikan karakter secara bahasa mempunyai makna ?",
+        "Apa makna pendidikan karakter secara bahasa ?",
+        "Secara bahasa pendidikan karakter adalah ?",
+        "Pendidikan karakter secara bahasa",
+        "Definisi pendidikan karakter secara bahasa adalah ?",
+        "Pendidikan karakter menurut bahasa berarti apa ?",
+        "Tuliskan pengertian pendidikan karakter secara bahasa ?",
+        "Arti kata pendidikan karakter menurut bahasa asalnya ?",
+        "Apa makna pendidikan karakter menurut asal katanya ?",
+        "Apa definisi pendidikan karakter dari segi asal katanya ?",
+        "Apa definisi pendidikan karakter menurut asal usul katanya ?",
+        "Apa yang dimaksud dengan pendidikan karakter jika dilihat dari asal katanya ?",
+        "Definisi pendidikan karakter dari asal katanya adalah ?",
+        "Dalam bahasa aslinya, apa arti dari karakter ?",
+        "Menurut asal katanya karakter adalah ?",
+        "Menurut asal katanya, apa arti dari kata karakter ?",
+        "Secara etimologi pendidikan karakter adalah ?",
+        "pendidikan karakter secara etimologi ",
+        "karakter secara etimologis adalah ?",
+        "Apa arti pendidikan karakter secara etimologi ?",
+        "Apa yang kamu ketahui mengenai definisi pendidikan karakter secara etimologi ?",
+        "Apa definisi pendidikan karakter secara etimologi ?",
+        "Secara etimologis pendidikan karakter adalah ?",
+        "Secara etimologi apa arti dari kata karakter ?",
+        "Jelaskan pengertian pendidikan karakter secara etimologi ",
+        "Apa makna dari kata pendidikan karakter secara etimologi ?",
+        "Secara etimologi pendidikan karakter mempunyai makna yaitu ?"
+
+      ],
+      "responses": [
+        "Karakter secara harfiah berasal dari bahasa Latin. Character, yang antara lain berarti: watak, tabiat, sifat-sifat kejiwaan, budi pekerti, kepribadian atau akhlak. Sehingga karakter dapat dipahami sebagai sifat dasar, kepribadian, tingkah laku/perilaku dan kebiasaan yang berpola. Perspektif pendidikan karakter adalah peranan pendidikan dalam membangun karakter peserta didik. Pendidikan karakter adalah upaya penyiapan kekayaan peserta didik yang berdimensi agama, sosial, budaya, yang mampu diwujudkan dalam bentuk budi pekerti baik dalam perkataan, perbuatan, pikiran, sikap, dan kepribadian."
+      ]
+    },
+    {
+      "tag": "terminologi pendidikan karakter",
+      "patterns": [
+        "Secara istilah pengertian dari pendidikan karakter yaitu ?",
+        "Pendidikan karakter secara istilah adalah ?",
+        "Pengertian pendidikan karakter secara istilah adalah ?",
+        "Jelaskan pengertian pendidikan karakter secara istilah",
+        "Apa yang dimaksud dengan pendidikan karakter jika dikaji menurut istilah ",
+        "Apa yang dimaksud dengan pendidikan karakter menurut istilah ",
+        "Apa yang kamu ketahui mengenai definisi pendidikan karakter secara terminologi ",
+        "Pendidikan karakter secara istilah mempunyai makna ?",
+        "Apa makna pendidikan karakter secara istilah ?",
+        "Secara istilah pendidikan karakter adalah ?",
+        "Pendidikan karakter secara istilah ",
+        "Definisi pendidikan karakter secara istilah adalah ?",
+        "Pendidikan karakter menurut istilah berarti apa ?",
+        "Tuliskan pengertian pendidikan karakter secara istilah ?",
+        "Arti kata pendidikan karakter menurut istilah ?",
+        "Apa makna pendidikan karakter berdasarkan istilahnya ?",
+        "Apa definisi pendidikan karakter dari segi istilah ?",
+        "Apa definisi pendidikan karakter menurut istilah ",
+        "Apa yang dimaksud dengan pendidikan karakter jika dilihat dari istilahnya ?",
+        "Definisi pendidikan karakter dari istilahnya adalah ?",
+        "Menurut istilah pendidikan karakter adalah ?",
+        "Menurut istilah, apa arti dari kata pendidikan karakter ?",
+        "Secara terminologi pendidikan karakter adalah ?",
+        "Pendidikan karakter secara terminologi",
+        "Pendidikan karakter secara terminologis adalah ?",
+        "Apa arti pendidikan karakter secara terminologi ?",
+        "Apa yang kamu ketahui mengenai definisi pendidikan karakter secara terminologi ?",
+        "Apa definisi pendidikan karakter secara terminologi ?",
+        "Secara terminologi yang dimaksud dengan pendidikan karakter adalah ?",
+        "Secara terminologi apa arti dari kata pendidikan karakter ?",
+        "Jelaskan pengertian pendidikan karakter secara terminologi ",
+        "Apa makna dari kata pendidikan karakter secara terminologi ?",
+        "Secara terminologi pendidikan karakter mempunyai makna yaitu"
+
+      ],
+      "responses": [
+        "Secara istilah, karakter diartikan sebagai sifat manusia pada umumnya dimana manusia mempunyai banyak sifat yang tergantung dari faktor kehidupannya sendiri. (Buchori, Kompas) Karakter adalah sifat kejiwaan, akhlak atau budi pekerti yang menjadi ciri khas seseorang atau sekelompok orang. Pendidikan karakter merupakan segala upaya yang dilakukan oleh pendidik untuk mengajarkan kebiasaan cara berfikir dan berperilaku yang membantu anak untuk hidup dan bekerja bersama sebagai keluarga, masyarakat dan bernegara dan membantu mereka untuk membuat keputusan yang dapat dipertanggungjawabkan, karakter juga dapat diistilahkan dengan tabiat, sifat-sifat kejiwaan, akhlak atau budi pekerti yang membedakan seseorang dengan orang lain. Sedangkan kata berkarakter diterjemahkan sebagai mempunyai tabiat, mempunyai kepribadian, sikap pribadi yang stabil hasil proses konsolidasi secara progesif dan dinamis, integrasi pernyataan dan tindakan."
+      ]
+    },
+    {
+      "tag": "pendidikan karakter menurut ahli",
+      "patterns": [
+        "Definisi pendidikan karakter menurut para ahli",
+        "menurut pakar, pendidikan karakter adalah",
+        "menurut para ahli pendidikan karakter adalah",
+        "pandangan para ahli mengenai definisi pendidikan karakter",
+        "tuliskan pengertian pendidikan karakter menurut para ahli",
+        "apa saja pengertian pendidikan karakter menurut ahlinya",
+        "apa definisi dari pendidikan karakter yang dikemukakan oleh para ahli",
+        "menurut mulyasa pendidikan karakter yaitu",
+        "pengertian pendidikan karakter menurut barnawi dan arifin",
+        "menurut koesoema pendidikan karakter adalah",
+        "menurut ahmad sudrajat pendidikan karakter adalah",
+        "pengertian pendidikan karakter menurut cronbach",
+        "menurut lickona pendidikan karakter adalah",
+        "definisi pendidikan karakter menurut ratna megawangi",
+        "menurut para ahli definisi dari pendidikan karakter adalah",
+        "bagaimana para ahli memberikan definisi tentang pendidikan karakter ?",
+        "interpretasi pendidikan karakter dari sudut pandang ahli",
+        "perspektif para ahli mengenai pengertian pendidikan karakter",
+        "siapa saja ahli ahli yang mengemukakan definisi dari pendidikan karakter ?",
+        "para ahli mengatakan bahwa definisi dari pendidikan karakter adalah ?",
+        "bagaimana pandangan dari para ahli terkait definisi pendidikan karakter ?"
+
+      ],
+      "responses": [
+        "Menurut Mulyasa, bahwa pendidikan karakter adalah upaya membantu perkembangan jiwa anak-anak, baik batin maupun lahir, dari sifat kodratnya menuju ke arah peradaban yang manusiawi dan lebih baik. Karakter diartikan sebagai nilai-nilai yang unik (tahu nilai kebaikan, mau berbuat kebaikan, dan nyata berkehidupan baik) yang terpatri dalam diri dan terejewantahkan dalam perilaku kehidupan sehari-hari. Karakter secara koheren memancar dari hasil olah pikir, olah hati, olah rasa dan olah karsa, serta olah raga seseorang yang merupakan ciri khas seseorang atau sekelompok orang yang mengandung nilai, kemampuan, kapasitas moral, dan ketegaran dalam menghadapi kesulitan dan tantangan hidup.<br><br>Barnawi dan Arifin mendefinisikan pendidikan karakter sebagai sebuah usaha untuk mendidik anak-anak agar dapat mengambil keputusan dengan bijak dan mempraktikannya dalam kehidupan sehari-hari sehingga mereka dapat memberikan konstribusi yang positif kepada lingkungan. Sehingga dapat dimaknai sebagai pendidikan nilai, pendidikan budi pekerti, pendidikan moral, serta pendidikan watak yang bertujuan mengembangkan kemampuan anak didik untuk memberikan keputusan baik maupun buruk, memelihara apa yang baik, mewujudkan, dan menebar kebaikan dalam kehidupan sehari-hari dengan sepenuh hati.<br><br>Pendidikan karakter menurut Koesoema yang pertama kali dicetuskan oleh pedagog Jerman Foerster (1869-1966), yaitu pendidikan yang menekankan dimensi etis-spiritual dalam proses pembentukan pribadi. Gerakan pembebasan dari determinisme natural menuju dimensi spiritual, bergerak dari formasi personal yang lebih didominasi pendekatan psikologis-sosial menuju cita-cita humanisme yang mengandung dimensi kultural dan religius. Hal tersebut selaras dengan pandangan Langgulung yang mengutamakan aspek etis spiritual, bahwa pendidikan mencakup dua kepentingan utama, yaitu pengembangan potensi individu dan pewarisan nilai-nilai budaya. Kedua hal ini berkaitan erat dengan pandangan hidup suatu masyarakat atau bangsa itu masing- masing. Pandangan hidup yang merupakan jati diri berisi nilai-nilai yang dinggap sebagai sesuatu secara ideal.<br><br>Menurut Cronbach menjelaskan karakter dalam perspektif psikologi bahwa karakter sebagai satu aspek dan kepribadian terbentuk oleh kebiasaan (habits) dan gagasan atau ide yang keduanya tidak dapat dipisahkan, adapun tiga unsur yang terkait dengan pembentukan karakter, yaitu keyakinan (beliefs), perasaan (feelings), dan tindakan (actions). Unsur-unsur tersebut saling ada keterkaitan satu dengan yang lainnya. Jadi untuk mengubah karakter seseorang harus melakukan penataan ulang terhadap unsur-unsur kepribadian tersebut. Bentuk dan nilai kehidupan yang terbaik adalah kebijaksanaan dalam menentukan pilihan-pilihan dalam kehidupan sehari-hari. Ketika seseorang dihadapkan pada pilihan perbuatan yang baik bagi sesama, maka karakter orang baik adalah orang yang berupaya melakukan perbuatan yang baik bagi orang lain dan juga bagi dirinya. Sebaliknya, perilaku karakter yang buruk adalah perbuatan yang dilakukan oleh seseorang tetapi pelaku tersebut tidak peduli akibat yang ditimbulkan oleh tindakannya terhadap orang lain.<br><br>Lickona mengemukakan bahwa karakter terbagi dalam tiga aspek yang saling berhubungan, yakni moral knowing, moral feeling, dan moral behavior. Oleh karena itu karakter seseorang yang dipandang baik harus memenuhi tiga keinginan aspek, yakni mengetahui hal yang baik (knowing the good), ada keinginan terhadap hal yang baik (desiring the good), dan melakukan hal yang baik (doing the good). Sehingga hal tersebut akan menjadi kebiasaan berfikir (habits of the mind), kebiasaan merasa (habits of heart), dan kebiasaan bertindak (habits of action). Pandangan ini didasarkan pada filosuf Yunani, Aristoteles, yang menyatakan bahwa sebuah karakter dikatakan baik, jika keseluruhan performance seseorang tersebut baik.<br><br>Selanjutnya Ki Hadjar Dewantara mengatakan, yang dinamakan budipekerti atau watak atau dalam bahasa asing disebut karakter yaitu bulatnya jiwa manusia sebagai jiwa yang berasas hukum kebatinan. Orang yang memiliki kecerdasan budipekerti itu senantiasa memikir-mikirkan dan merasa-rasakan serta selalu memakai ukuran, timbangan, dan dasar-dasar yang pasti dan tetap. Itulah sebabnya orang dapat kita kenal wataknya dengan pasti; yaitu karena watak atau budipekerti itu memang bersifat tetap dan pasti.<br><br>Pendidikan karakter menurut Ratna Megawangi adalah sebuah usaha untuk mendidik anak-anak agar dapat mengambil keputusan secara bijak dan mempraktikannya dalam kehidupan sehari- hari, sehingga mereka dapat memberikan kontribusi yang positif terhadap lingkungannya.<br><br>Menurut Ahmad Sudrajat, Pendidikan karakter adalah suatu sistem penanaman nilai-nilai karakter kepada warga sekolah yang meliputi komponen pengetahuan, kesadaran atau kemauan, dan tindakan untuk melaksanakan nilai-nilai tersebut, baik terhadap Tuhan Yang Maha Esa (YME), diri sendiri, sesama, lingkungan, maupun kebangsaan sehingga menjadi manusia insan kamil. Dalam pendidikan karakter di sekolah, semua komponen (stakeholders) harus dilibatkan, termasuk komponen-komponen pendidikan itu sendiri, yaitu isi kurikulum, proses pembelajaran dan penilaian, kualitas hubungan, penanganan atau pengelolaan mata pelajaran, pengelolaan sekolah, pelaksanaan aktivitas atau kegiatan kurikuler, pemberdayaan sarana prasarana, pembiayaan, dan ethos kerja seluruh warga dan lingkungan sekolah."
+      ]
+    },
+    {
+      "tag": "tujuan pendidikan karakter",
+      "patterns": [
+        "tujuan pendidikan karakter adalah ?",
+        "apa tujuan dari pendidikan karakter ?",
+        "sebutkan tujuan pendidikan karakter ?",
+        "pendidikan karakter mempunyai tujuan yaitu ?",
+        "jelaskan tujuan tujuan dari pendidikan karakter",
+        "apa saja tujuan pendidikan karakter ?",
+        "mengapa pendidikan karakter itu penting",
+        "apa manfaat dari pendidikan karakter ?",
+        "sebutkan manfaat utama dari pendidikan karakter",
+        "apa alasan dibalik pentingnya pendidikan karakter ?",
+        "sebutkan alasan kuat dibalik pendidikan karakter ?",
+        "mengapa pendidikan karakter itu penting ?"
+
+      ],
+      "responses": [
+        "Tujuan pendidikan karakter adalah :<br><br>1. Mendorong kebiasaan perilaku yeng terpuji sejalan dengan nilai-nilai universal, tradisi budaya, kesepakatan sosial, dan religiositas agama. <br><br>2. Menanamkan jiwa kepemimpinan yang bertanggung jawab sebagai penerus bangsa.<br><br>3. Memupuk ketegaran dan kepekaan mental peserta didik terhadap situasi sekitarnya, sehingga tidak terjerumus kepada perilaku yang menyimpang, baik secara individu maupun sosial.<br><br>4. Meningkatkan kemampuan menghindari sifat tercela yang dapat merusak diri sendiri, orang lain, dan lingkungan. <br><br>5. Agar siswa memahami dan menghayati nilai-nilai yang relevan bagi pertumbuhan dan penghargaan harkat dan martabat manusia."
+      ]
+    }
+    
+  ]
+}
